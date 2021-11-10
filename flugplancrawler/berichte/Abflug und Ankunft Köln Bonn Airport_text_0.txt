@@ -1,0 +1,1954 @@
+Köln Bonn Airport 
+	     
+	     Seiteninterne Navigation: 
+	     zur Servicenavigation des Internetauftitts zur Bereichsnavigation des Internetauftritts zur Navigation des Internetauftritts zum Inhaltsbereich des Internetauftritts zum Servicebereich des Internetauftitts 
+	     Abschnittsende: Rücksprung zur seiteninternen Navigation 
+	     
+	 
+	 
+
+	 
+	
+	
+	
+
+ 
+	 
+	
+	 
+		 
+			 Flüge Abflug  & Ankunft Gesund ans Ziel Flug buchen Airlines Flugziele ab Köln/Bonn Vorabend Check-in Reise-Checkliste Gepäckermittlung / Lost  & Found Sicherheitskontrolle Begleit- und Porterservice VIP-Service Klimaneutrales Fliegen Kompensation berechnen Konkretes Projekt Berechnungsgrundlage Wer ist myclimate? FAQs Barrierefrei Reisen App  & Multimedia Parken  & Anreise Parkplatz-Reservierung Infos zum Parken Parken FAQs Anreise mit dem PKW Bus und Bahn Fernbus Mietwagen Carsharing Taxi Fahrrad und zu Fuß Parkplatz-Reservierung Am Airport Shoppen und Essen am Airport Reisebüros Dienstleister und Service Ärztezentrum Konferenzen und Tagungen Airport Business Lounge Willkommen am Airport Besucherführungen Führungen für Gruppen (ab 10 Personen) Führungen für Einzelpersonen Aktuelles Hotels buchen Airport Webcam General Aviation Terminal Charter  & Private Jets Pfandprojekt Polizei, Zoll Wegweiser Aktuelles B2B Marketing und Vertrieb Cologne Bonn Cargo Ground Handling Werben am Airport Event-Lounge Reisebüro Expedienten Foto- und Filmaufnahmen Fernbusterminal AOC und Nutzerausschuss Einkauf Ausschreibungen  & Vergaben Dokumente Zugang zum Sicherheitsbereich Luftsicherheitsschulung Flughafenlieferungen Vertragsbedingungen  & Entgelte Versorgungsnetze Technische Vertragsbedingungen Unternehmen Flughafen Köln/Bonn GmbH Unternehmensführung Public Corporate Governance Kodex Wirtschaftsfaktor Karriere Daten  & Fakten Planfeststellung FAQ zur Planfeststellung Historische Meilensteine Umwelt und Lärmschutz Fluglärm Passiver Schallschutz Betriebsrichtung live Travis/Flugspuren live Glossar Sanierungsmaßnahmen Bahnsanierung Kanalsanierung Politikbrief Flughafenfeuerwehr Anti-Korruptions-Management Presse Pressemitteilungen Bilder Film  & Foto Publikationen Kontakte Karriere Jobangebote Studiengänge Ausbildungen Praktika Unternehmen am Flughafen Serviceseiten Kontakte Hilfe  & FAQ Sitemap Datenschutz Impressum 
+		 
+	 
+
+	 
+	 
+	     Übergreifender Servicebereich des Internetauftritts 
+	 
+	 
+
+	 
+	 
+		 
+			 
+				 
+				 Köln Bonn Airport   so  simple 
+				 Navigation 
+			 
+			 
+			 
+				  Parkplatz reservieren  Aktuelles  Karriere  Presse  Umwelt  Unternehmen  B2B  Kontakte 
+				 
+					 A- A+ EN NL 
+				 
+			 
+		 
+	 
+
+
+
+	 
+	 
+		 
+			 
+				 
+					 Köln Bonn Airport  so  simple 
+					 
+						
+						     	 
+    	 
+    	 
+ Suche nach: 
+					 
+					 
+					 
+					     Abschnittsende: Rücksprung zur seiteninternen Navigation 
+					     
+					 
+					 						
+				 
+			 
+			 
+				 
+				 			
+					 Bereichsnavigation des Internetauftritts 
+				 
+				 				
+				
+				 Flüge Parken  & Anreise Am Airport B2B Unternehmen 
+				
+				 
+				     Abschnittsende: Rücksprung zur seiteninternen Navigation 
+				     
+				 
+				 
+			 
+		 
+		
+	 
+	
+	 
+
+		 
+			 
+				 
+				 			
+					 Navigation des Internetauftritts 
+				 
+				 
+				
+				   Startseite   Abflug  & Ankunft   Gesund ans Ziel   Flug buchen   Airlines   Flugziele   Vorabend Check-in   Reise-Checkliste   Gepäckermittlung   Sicherheitskontrolle   Begleit- und Porterservice   VIP-Service   Klimaneutrales Fliegen   Barrierefrei Reisen   App  & Multimedia 
+				
+				 
+				 
+				     Abschnittsende: Rücksprung zur seiteninternen Navigation 
+				     
+				 
+				 
+			 
+			 
+				 
+				 			
+					 Inhaltsbereich des Internetauftritts 
+				 
+				 	
+				
+				 
+  				
+     Startseite Flüge Abflug  & Ankunft 
+     
+    	
+	    	 Abflug  & Ankunft 
+    	
+        
+ Wichtiger Hinweis: Aktuell werden die Check-Ins für alle Flüge im Terminal 1 im Bereich 1B durchgeführt. Bitte informieren Sie sich beim Eintreffen am Flughafen an den Abflugmonitoren zu Änderungen bezüglich der Check-In-Schalter bzw. der Abflug-Gates.
+   
+
+
+ 
+ 
+	
+	 
+	
+		var TYPE_JSON=6;var TYPE_AJAX=3;var TYPE_XML=4;var TYPE_CALENDAR=5;
+	
+		var containerID='flights';
+		
+		function formChanged(obj) {
+			
+		    if ($("#datetimepickerSTARTDATE").data("DateTimePicker").date())
+		    $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+		    else $("form[name=form"+containerID +"] .inputstart").val(""); 
+			doFlightsearch($("form[name=" + obj + "]"), false);
+
+		}
+
+		function letitfly() {
+			$("#ajaxplane").animate({
+				opacity : 0.25,
+				left : "+=90%"
+			}, 3000, function() {
+				$("#ajaxplane").css({
+					'opacity' : 1,
+					'left' : 0
+				});
+				letitfly()
+			});
+		}
+
+		function doFlightsearch(obj, append) {
+
+			if ($("#ajaxindicator").size() >  0) {
+				return false;
+				//läuft noch
+			}
+
+			var f = $(obj);
+			if (!append)$("input.pagenr").val(0);
+			var container = $('#' + f.attr('data-container'));
+			if (append) {
+				container.append('<div id="ajaxindicator" class="row"><i id="ajaxplane" class="sym sym-flugzeug"> </ i > </ div > ');
+			} else {
+				container.html('<div id="ajaxindicator" class="row"><i id="ajaxplane" class="sym sym-flugzeug"> </ i > </ div > ');
+			}
+			letitfly();
+			$.ajax({
+				url : f.attr('action') + '?' + f.serialize(),
+			}).done(function(data) {
+				if (append) {
+					$("#ajaxindicator").remove();
+					container.append(data);
+				} else {
+					container.html(data);
+				}
+
+			});
+
+			return false;
+		}
+
+
+		$(document).ready(function() {
+	
+		    
+		    $('#datetimepickerSTARTDATE').datetimepicker({
+			    loca le : 'de',
+			    stepping : 15,
+			    format : "DD.MM.YYYY HH:mm",
+			    defaultDate : "",//"2020-11-30 12:30",
+			    sideBySide : true,
+			    debug:false,
+			    icons : {
+				time : "fa fa-fw fa-clock-o",
+				date : "fa fa-calendar",
+				up : "fa fa-arrow-up",
+				down : "fa fa-arrow-down",
+				next : "fa fa-arrow-right",
+				previous : "fa fa-arrow-left"
+			    }
+			}); 
+		    
+		    if ($("#datetimepickerSTARTDATE").data("DateTimePicker").date()) $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+		    else $("form[name=form"+containerID+"] .inputstart").val("");
+
+			$("#datetimepickerSTARTDATE").on("dp.change", function(e) {
+			    var tmpDateTimeFrom = e.date;
+			    if ( $("#datetimepickerSTARTDATE").data("DateTimePicker").date())	    $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+			    else  $("form[name=form"+containerID+"] .inputstart").val("");
+			});
+		    
+		    
+		    
+		    
+			$('#flights .panel-collapse').on('show.bs.collapse', function() {
+				$('#' + $(this). attr('aria-labelledby')).addClass('in');
+			});
+			$('#flights .panel-collapse').on('hide.bs.collapse', function() {
+				$('#' + $(this).attr('aria-labelledby')).removeClass('in');
+			});
+
+			$("#flightcontrol2 a.btn").click(function(e) {
+				var obj = 'form' + $(this).attr("data-container");
+				doFlightsearch($("form[name=" + obj + "]"), false);
+			});
+
+			$("#flightcontrol3  .btn").click(function(e) {
+
+				var val = $(this).attr("data-value");
+				var obj = 'form' + $(this).attr("data-container");
+				if (val == 25 || val == 50 || val == 'ALL') {
+					$("#flightcontrol3 .btn").removeClass("active");
+					$("#flightcontrol3 .btn[data-value=" + val + "]").addClass("active");
+
+					if (val == 'ALL')
+						$("#flightcontrol3 .btn[data-value=MORE]").hid e();
+					else
+						$("#flightcontrol3 .btn[data-value=MORE]").show();
+
+					$("form[name=" + obj + "] .flightsperpage").val(val);
+					doFlightsearch($("form[name=" + obj + "]"), false);
+				} else {
+					$("form[name=" + obj + "] .pagenr").val($("form[name=" + obj + "] .pagenr").val() * 1 + 1);
+
+					doFlightsearch($("form[name=" + obj + "]"), true,true);
+				}
+
+			});
+
+			$ ("#flightcontrol2 #fcMode a").click(function(e) {
+				var mode = $(this).attr("data-value");
+				var obj = 'form' + $(this).attr("data-container");
+				$("form[name=" + obj + "] .mode").val(mode);
+				$("form[name=" + obj + "] .inputstart").val("");
+				
+				$("#dtpSTARTDATE").val("");
+				doFlightsearch($("form[name=" + obj + "]"), false);				
+				$("#fcModeD").removeClass("ac t");
+				$("#fcModeA").removeClass("act");
+				$(this).addClass("act");
+			});
+
+			$(".autocomplete_destination").typeahead({
+				minLength : 2,
+				autoSelect:false,
+				updater : function(item) {
+					if (item.indexOf(' ') > -1) {
+						item = '"' + item + '"';
+					}
+					return item;
+				},
+				source : function(q, process) {
+					return $.getJSON('/index.php', {
+						'typ e' : TYPE_JSON,
+						'id':14,
+						'tx_cgnflightschedule_flightschedule[controller]' : 'FlightSchedule',
+						'tx_cgnflightschedule_flightschedule[action]' : 'autocomplete',
+						'tx_cgnflightschedule_flightschedule[q]' : q,
+					}, function(data) {
+						return process(data);
+					});
+				}
+			});
+
+			$(".autocomplete_airline").typeahead({
+				minLength : 2,
+				autoSelect :false,
+				/*updater : function(item) {
+				 if (item.indexOf(' ') > -1) {
+				 item = '"' + item + '"';
+				 }
+				 return item;
+				 },*/
+				source : function(q, process) {
+					return $.getJSON('/index.php', {
+						'type' : TYPE_JSON,
+						'id':14,
+						'tx_cgnflightschedule_flightschedule[controller]' : 'FlightSchedule',
+						'tx_cgnflightschedule_flightschedule[actio n]' : 'autocompleteAirlines',
+						'tx_cgnflightschedule_flightschedule[q]' : q,
+					}, function(data) {
+						return process(data);
+					});
+				}
+			});
+
+		});
+	 
+
+	
+	 
+
+	 
+		 
+		 
+		 
+		 
+		 			
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		
+		 
+ 
+	 
+ 
+				 
+					 
+						 Abflug 
+					 
+				 
+				 
+					 
+						 Ankunft 
+					 
+				 					
+			 
+			
+			 
+				 
+					 
+						 Flugziel, Flugnummer, Land:  
+						 
+					 
+				 
+	
+				 
+							 
+								   
+									 
+								 
+							 
+							
+											 
+				 
+			 
+	
+			 
+				 
+					 
+						 Fluggesellschaft:  
+						 
+					 
+				 
+	
+				 
+					 
+						 
+							 Toleranz:  
+							 +/- 1 Tag Toleranz +/- 3 Tage Toleranz +/- 7 Tage Toleranz +/- 14 Tage Toleranz 
+	
+						 
+					 
+				 
+			 
+ 
+ 
+		
+		 
+			 
+				 Suche starten  A 
+			 
+		 
+
+	 
+
+	 
+		 
+			 
+
+
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											Flugziel
+										
+								 
+							 
+							
+									 
+										 Check-In 
+									 
+									 
+										 Gate 
+									 
+								
+
+							 
+								 
+									Flug ­nummer
+								 
+							 
+						 
+					 
+					 
+						 
+							 
+								 
+									Status
+								 
+							 
+							 
+								 
+									
+											Ab ­flug ­zeit
+										
+								 
+							 
+						 
+					 
+				 
+			 
+		 
+
+		
+			
+				 
+					 
+						 Montag,  30.11.2020 
+					 
+				 
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Palma de Mallorca
+											(PMI)
+									 
+								 
+								
+										 T1/B16-B18 
+										 D30 
+									
+
+								 
+									 FR 7208 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									  rollt
+								 
+								 
+									13:40
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B16-B18
+										 Gate: D30 
+								 
+										Airline:
+									 
+										
+												 Ryanair
+													(RYR) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 B737-800 Winglets 
+											Bemerkung:
+										 
+											
+												
+												  rollt
+												
+												
+												
+											
+										 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Alicante
+											(ALC)
+									 
+								 
+								
+										 T1/B16-B18 
+										 D20 
+									
+
+								 
+									 FR 1355 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									15:35
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B16-B18
+										 Gate: D20 
+								 
+										Airline:
+									 
+										
+												 Ryanair
+													(RYR) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 B737-800 Wing  &Ladeh 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Berlin
+											(BER)
+									 
+								 
+								
+										 T1/B01-B03 
+										 C30 
+									
+
+								 
+									 EW 8071 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									15:50
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B03
+										 Gate: C30 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A319 - 100 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 München
+											(MUC)
+									 
+								 
+								
+										 T1/B01-B03 
+										 C40 
+									
+
+								 
+									 EW  086 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									18:00
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B03
+										 Gate: C40 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A319 - 100 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Berlin
+											(BER)
+									 
+								 
+								
+										 T1/B01-B03 
+										 C50 
+									
+
+								 
+									 EW 8055 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									19:25
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B03
+										 Gate: C50 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A319 - 100 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 München
+											(MUC)
+									 
+								 
+								
+										 T1/B24-B26 
+										 C11 
+									
+
+								 
+									 LH 1987 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									20:05
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B24-B26
+										 Gate: C11 
+								 
+										Airline:
+									 
+										
+												 Deutsche Lufthansa AG
+													(DLH) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 CL 600 RJ-900 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+				 
+					 
+						 Dienstag,  01.12.2020 
+					 
+				 
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Istanbul-Sabiha Gökcen
+											(SAW)
+									 
+								 
+								
+										 T1/B03-B06 
+										 D30 
+									
+
+								 
+									 PC 1014 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									01:05
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B03-B06
+										 Gate: D30 
+								 
+										Airline:
+									 
+										
+												 Pegasus Hava Tasimaciligi AS
+													(PGT) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A321 - 100/200 Neo, Sharklets 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Istanbul-Sabiha Gökcen
+											(SAW)
+									 
+								 
+								
+										 T1/B19-B22 
+										 D10 
+									
+
+								 
+									 TK 7873 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									01:05
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B19-B22
+										 Gate: D10 
+								 
+										Airline:
+									 
+										
+												 Turkish Airlines Inc.
+													(THY) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 B737-800 Wing  &Ladeh 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 München
+											(MUC)
+									 
+								 
+								
+										 T1/B01-B02 
+										 C30 
+									
+
+								 
+									 EW  080 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									07:00
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B02
+										 Gate: C30 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A319 - 100 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Berlin
+											(BER)
+									 
+								 
+								
+										 T1/B01-B02 
+										 C20 
+									
+
+								 
+									 EW  024 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									07:20
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B02
+										 Gate: C20 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A320 - 200 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Hamburg
+											(HAM)
+									 
+								 
+								
+										 T1/B01-B02 
+										 C50 
+									
+
+								 
+									 EW 7033 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									08:45
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B01-B02
+										 Gate: C50 
+								 
+										Airline:
+									 
+										
+												 Eurowings
+													(EWG) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A320 - 200 Neo, Sharklets 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 München
+											(MUC)
+									 
+								 
+								
+										 T1/B24-B26 
+										 C11 
+									
+
+								 
+									 LH 1973 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									09:10
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B24-B26
+										 Gate: C11 
+								 
+										Airline:
+									 
+										
+												 Deutsche Lufthansa AG
+													(DLH) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 CL 600 RJ-900 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Palermo
+											(PMO)
+									 
+								 
+								
+										 T1/B15-B18 
+										 D20 
+									
+
+								 
+									 FR 8430 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									10:15
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B15-B18
+										 Gate: D20 
+								 
+										Airline:
+									 
+										
+												 Ryanair
+													(RYR) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 B737-800 Wing  &Ladeh 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+			
+			 
+				 
+					 
+						 
+							 
+								 
+									
+											 
+												   
+											 
+										
+
+									 
+											 Nador
+											(NDR)
+									 
+								 
+								
+										 T1/B08-B10 
+										 B20 
+									
+
+								 
+									 3O  224 
+									
+										 
+											Terminal 1
+										 
+									
+								 
+							 
+						 
+						 
+							 
+								 
+									
+								 
+								 
+									11:25
+								 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+								 Check-In: 
+											Terminal 1 / B08-B10
+										 Gate: B20 
+								 
+										Airline:
+									 
+										
+												 Air Arabia Maroc
+													(MAC) 
+												 
+											
+									 
+											Flugzeugtyp:
+										 A320 - 200 
+							 
+							 
+								 
+											  Flug buchen
+												 A   
+										 
+											  Wunschparkplatz finden  A 
+											 
+										 
+										  Hotels 
+									 
+										  Länderinformation 
+									 
+
+								 
+											  SMS-Update 
+										 
+										  Klimaneutral fliegen 
+									 
+											 
+												  In Kalender eintragen
+											 
+										 
+							 
+						 
+					 
+				 
+			 
+		
+		 
+	    $(document).ready(function() {
+		showBoarding();
+
+		if ($('#flightcontrol3').length > 0 && $('#flightcontrol3').is(':hidden')) {
+		    $('#flightcontrol3').show();
+		}
+	    });
+	 
+	
+		 
+	 
+
+	 
+		 
+			 25 
+			 50 
+			 
+			alle Flüge
+			 
+		 
+		 
+			 
+			weitere Flüge
+			 
+		 
+	 
+
+
+ 
+
+
+ 
+
+
+     
+
+  				 
+  				
+				 
+				 
+				     Abschnittsende: Rücksprung zur seiteninternen Navigation 
+				     
+				 
+				 
+				
+			 
+		 
+	 
+	
+	
+	
+	 
+	 			
+		 Servicebereich des Internetauftritts 
+	 
+	 	
+	
+	 
+	
+	 
+		 
+		     
+			     
+ 
+				Parken
+			 Direkt  am Köln Bonn Airport parken, ohne Umwege. Jetzt reservieren! 
+
+
+ Parken von: bis: Wunschparkplatz finden 
+            $(function () {
+            	var locDP = 'de';
+            	
+                $('#datetimepickerFrom').datetimepicker({
+              		locale: locDP,
+              		stepping: 15,
+              		format: "DD.MM.YYYY HH:mm",
+                	defaultDate: "2020-12-01 14:00",
+                	sideBySide: true,
+                	icons: {
+                    	time: "fa f a-fw fa-clock-o",
+                    	date: "fa fa-calendar",
+                    	up: "fa fa-arrow-up",
+                    	down: "fa fa-arrow-down",
+	                    next: "fa fa-arrow-right",
+	                    previous: "fa fa-arrow-left"
+                	}
+            	});
+                $('#datetimepickerTo').datetimepicker({
+	              	locale: locDP,
+	               	stepping: 15,
+	                format: "DD.MM.YYYY HH:mm",
+	              	defaultDate: "2020-12-02 18:00",
+	                sideBySide: true,
+	                icons: {
+	                    time: "fa fa-fw fa-clock-o",
+	                    date: "fa fa-calendar",
+	                    up: "fa fa-arrow-up",
+	                    down: "fa fa-arrow-down",
+	                     next: "fa fa-arrow-right",
+	                    previous: "fa fa-arrow-left"
+	                }
+            	});
+                
+                $("#datetimepickerFrom").on("dp.change", function (e) {
+                    var tmpDateTimeFrom = e.date;
+                    if (!tmpDateTimeFrom) {
+                    	$('#datetimepickerFrom').data("DateTimePicker").date("2020 -12-01 14:00");
+                    	$('#datefrom').val("01.12.2020 14:00");
+                    	$('#DatepickerFromData').val("2020-12-01");
+                    	$('#DatepickerFromTimeData').val("14:00");
+                    } else {
+                    	if ($('#datefrom').length > 0) {
+                    		var tmpDF = $('#datefrom').val().split(" ");
+                    		va r tmpDFDate = tmpDF[0];
+                    		var tmpDFTime = tmpDF[1];
+                    		tmpDFDate = tmpDFDate.split(".");
+                    		tmpDFDate = tmpDFDate[2]+"-"+tmpDFDate[1]+"-"+tmpDFDate[0];
+                    		//console.log(tmpDFDate);
+                    		//console.log(tmpDFTime);
+                        	$('#DatepickerFromData').val(tmpDFDate);
+                         	$('#DatepickerFromTimeData').val(tmpDFTime);                    		
+                    	}
+                    }
+                    //console.log("tmpDateTimeFrom:" + tmpDateTimeFrom);
+                });
+                $("#datetimepickerTo").on("dp.change", function (e) {
+                    var tmpDateTimeTo = e.date;
+                    if (!tmpDateTimeTo)  {
+                    	$('#datetimepickerTo').data("DateTimePicker").date("2020-12-02 18:00");
+                    	$('#dateto').val("02.12.2020 18:00");
+                    	$('#DatepickerToData').val("2020-12-02");
+                    	$('#DatepickerToTimeData').val("18:00");
+                    } else {
+                    	if ($('#dateto').length > 0) {
+                     		var tmpDF = $('#dateto').val().split(" ");
+                    		var tmpDFDate = tmpDF[0];
+                    		var tmpDFTime = tmpDF[1];
+                    		tmpDFDate = tmpDFDate.split(".");
+                    		tmpDFDate = tmpDFDate[2]+"-"+tmpDFDate[1]+"-"+tmpDFDate[0];
+                    		//console.log(tmpDFDate);
+                    		//console.log(tmpDFTime);
+                         	$('#DatepickerToData').val(tmpDFDate);
+                        	$('#DatepickerToTimeData').val(tmpDFTime);                    		
+                    	}                    	
+                    }
+                    //console.log("tmpDateTimeTo: " + tmpDateTimeTo);
+                });                
+			});
+
+            $(document).ready(function() {
+
+				if  ((MOBILE == "phone" || MOBILE == "tablet") && ($("#dpFrameForm").length > 0)) {
+					$("#dpFrameForm").attr("action", "https://parking.koeln-bonn-airport.de/iPCP/reservation/create?skip=false&mobile=true");
+					$("#dpFrameForm").attr("target", "_blank");
+				}
+            });
+
+            
+         
+
+ 
+ 
+				Aktuelles
+			 
+
+ 
+	
+	
+	
+	 Cluj-Napoca neu im Sommerflugplan 2021 Prozesse im Terminal werden angepasst "H2R Wasserstoff Rheinland " präsentiert umfangreiche Pläne Abschlussarbeiten an Startbahnoberfläche  
+	 
+		 Alle News 
+	 
+
+
+ 
+ 
+				Anfahrt
+			 Anreise mit dem Navigationsgerät: Köln Bonn Airport, Kennedystraße, 51147 Köln
+ Ausführliche Beschreibung 
+
+ 
+ 
+				Hilfreiche Links
+			 Flug buchen Hilfe  & FAQ Sitemap Impressum Hinweise zum Datenschutz Portal AGBs 
+
+ 
+		     
+			
+			 
+				 
+					 
+						 
+							 Facebook  
+							 Instagram 
+							 Twitter 
+							 Youtube 
+						 
+						 
+							 
+						 
+					 
+				 
+			 
+			 
+				 
+					 
+						 
+							Copyright 2020 Köln Bonn Airport 
+					 
+				 
+			 
+		 
+	 
+	
+	 
+	 
+	     Abschnittsende: Rücksprung zur seiteninternen Navigation

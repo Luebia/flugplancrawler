@@ -1,0 +1,6 @@
+Regex:
+(?>\weitere\W\wnformationen\W\wnzeigen\W\wiel\W\s)([A-Za-zÜÄÖöäü]+\W?[A-Za-zÜÄÖöäü]*\W?[A-Za-zÜÄÖöäü]*\W?\s)(?>\wlugnummer\W\s)(\w\d\s\d+\s)(?>\weplanter\W\wbflug\W?)(\d\d\W\d\d\s)(?>\wrwarteter\W\wbflug\W)(\d\d\W\d\d\s)?(?>\s?\wtatus\W\W)(?>\wchalter\W\W)(\d\d\W)(?>\wontrolle\W\W)(\w\W)(?>\wate\W\W)(\d\d\W)(?>\wtatus\W)
+
+Tabelle:
+Weitere Informationen anzeigen Ziel: Bukarest-Otopeni Flugnummer: W6 3092 Geplanter Abflug15:20 Erwarteter Abflug  Status: Gestartet Schalter: 22 Kontrolle: B Gate: 02 Status: Gestartet
+Weitere Informationen anzeigen Ziel: Belgrad Flugnummer: W6 4092 Geplanter Abflug19:25 Erwarteter Abflug  Status: Schalter: 22 Kontrolle: B Gate: 02 Status:

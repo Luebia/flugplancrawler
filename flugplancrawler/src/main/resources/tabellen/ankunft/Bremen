@@ -1,0 +1,10 @@
+Regex:
+(\w\w\w?\W?\d+\w?\W)(\w\w\w?\W)([A-Za-zöäü]+\W)()(\d\d\:\d\d\W)(\d\d\:\d\d\W)?([A-Za-z]+\W)?(Terminal\W\d)()
+
+Tabelle:
+Flug-Nr. Airline Aus Via Ankunft Erwartet Status Terminal Flugdetails
+LH 352 LH Frankfurt 10:10 10:54 gelandet Terminal 1
+BGA145I BGA Hawarden 17:35 17:24 gelandet Terminal 1
+Flug-Nr. Airline Aus Via Ankunft Erwartet Status Terminal Flugdetails
+BGA195A BGA Sevilla 17:05 BELUGA Terminal 1
+KL 1757 KL Amsterdam 17:45 Terminal 1

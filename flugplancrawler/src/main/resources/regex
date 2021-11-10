@@ -1,0 +1,21 @@
+Köln Bonn:
+([a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[(][a-zA-Zöäü]+[)])\s(\w\d\/\w\d\d[-]\w\d\d)\s(\w\d\d)\s(\w\w\s\d+)\s([a-zA-Z]+\s\d)\s?(\d?\W?\s?[a-zA-Z]+\s?[a-zA-Z]*\-?[a-zA-Z]*)?\s(\d\d\:\d\d)
+([a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[(][a-zA-Zöäü]+[)])\s(\w\d\/\w\d\d[-]\w\d\d)?\s?(\w\d\d)?\s?(\w\w\s\d+)\s([a-zA-Z]+\s\d)?\s?(\d?\W?\s?[a-zA-Z]+\s?\W?\s?[a-zA-Z]*\-?[a-zA-Z]*)?\s(\d\d\:\d\d)
+([a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]+\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[a-zA-Zöäü]*\s?\-?\s?[(][a-zA-Zöäü]+[)])\s(\w\d\/\w\d\d[-]\w\d\d)?\s?(\w\d\d)?\s?(\w\w\s\d+)\s([a-zA-Z]+\s\d)?\s?(\d?\W?\s?[a-zA-Z]*\s?\W?\s?[a-zA-Z]*\s?\W?\s?[a-zA-Z]*\s?\W?\s?[a-zA-Z]*)?\s?(\d\d\:\d\d\s?\d?\d?\W?\d?\d?)
+([a-zA-ZöäüÖÄÜ]+\W[a-zA-ZöäüÖÄÜ]*\W?[a-zA-ZöäüÖÄÜ]*\W?\([A-Z]*\))\s(\w\d\W\w\d\d\-\w\d\d)?\s?(\w\d\d)?\s?(\w\w\s\d+)\s[[:<:]]Terminal\s\d[[:>:]]\s?(\d?\.?\W?[a-zA-ZöäüÖÄÜ]+\W?\W?\W?[a-zA-ZöäüÖÄÜ]*\W?[a-zA-ZöäüÖÄÜ]*\W?)?\s?(\d\d\:\d\d\s?\d?\d?\W?\d?\d?)
+([a-zA-ZöäüÖÄÜ]+\W[a-zA-ZöäüÖÄÜ]*\W?[a-zA-ZöäüÖÄÜ]*\W?\([A-Z]*\))\s(\w\d\W\w\d\d\-\w\d\d)?\s?(\w\d\d)?\s?(\w\w\s\d+)\sTerminal\s\d\s?(\d?\.?\W?[a-zA-ZöäüÖÄÜ]+\W?\W?\W?[a-zA-ZöäüÖÄÜ]*\W?[a-zA-ZöäüÖÄÜ]*\W?)?\s?(\d\d\:\d\d\s?\d?\d?\W?\d?\d?)
+([a-zA-Zöäüöäü]*\W?[a-zA-Zöäüöäü]*\W?[a-zA-Zöäüöäü]*\W?\(\w\w\w\)\s)(\w\d\/\w\d\d\-\w\d\d\s)?(\w\d\d\s)?(\w\w\s\d+\s)(?>Terminal\s\d\s)?(\d?\.?\s?[a-zA-ZÖÄÜöäü]+\s?[a-zA-ZÖÄÜöäü]*\W?[a-zA-ZÖÄÜöäü]*\s?\/?\s?[a-zA-ZÖÄÜöäü]*\s?\/?\s?[a-zA-ZÖÄÜöäü]*)?(\d\d\:\d\d\s?\d?\d?\W?\d?\d?)
+
+
+
+
+
+
+Bremen:
+(\w\w\w?\s?\d*\w?)\s(\w\w\w?)\s([a-zA-ZöäüÖÄÜ]*)\s?(\d\d\W\d\d)?\s(\d\d\W\d\d)\s?([a-zA-ZöäüÖÄÜ]*)?\s?(BELUGA XL)?\s([a-zA-Zöäü]*\W\d)
+(\w\w\w?\s?\d+\w?)\s((\wirline)?\W?\w\w\w?)\s([a-zA-Z]*)\s((\wbflug)?\W*\d\d\:\d\d)\s?(\d\d\:\d\d)?\s?
+(\w\w\w?\s?\d+\w?)\s((\wirline\W)?\w\w\w?)\s([a-zA-Z]*)\s((\wbflug\W*)?\d\d\:\d\d)\s?(\d\d\:\d\d)?\s([a-zA-ZöäüÖÄÜ]*(\W\w\w)?)\s?(Terminal\W(\w|\d))\s((\wounter)?\W\d?\d\s\W\s\d?\d)?\s?((\wate)\W\w\d\d)?
+(\w\w\w?\s?\d+\w?\s)(?>Airline\W)?(\w\w\w?\s)([a-zA-ZöäüÖÄÜ]+\s)()(?>Abflug\W*)?(\d\d\:\d\d\s)(\d\d\:\d\d\s)?([a-zA-ZÖÄÜ]+\s)?(Terminal\W\d\s|BELUGA\WXL\s)(?>Terminal\W*X\s)?(?>Counter\W*)?(\d\d\W\-\W\d\d\s|\d\W\-\W\d)?(?>Gate\W*)?(\w\d\d)?
+
+Dortmund:
+(?>[A-Za-zöäüÖÄÜ ]*Start:\s)([A-Za-zÜÄÖöäü]+\W?[A-Za-zÜÄÖöäü]*\W?(?:\W[A-Za-z]*\W)?\s)(?>Flugnummer: )(\w\d\s\d+\s)(?>Geplante\sAnkunft\s?)(\d\d\:\d\d\s)(?>Erwartete Ankunft)\W*(\d\d\:\d\d\s)?(?>Status: )([A-Za-z]*\s)?

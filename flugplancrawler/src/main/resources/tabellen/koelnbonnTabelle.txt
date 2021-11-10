@@ -1,0 +1,62 @@
+München (MUC) T1/B01-B04 C20 EW 080 Terminal 1 1. Aufruf Boarding 07:00
+Porto (OPO) T1/B15-B17 C70 FR 130 Terminal 1 Beginn Check-In 08:10
+Berlin (BER) T1/B01-B04 C30 EW 8059 Terminal 1 Beginn Check-In 08:30
+München (MUC) T1/B24-B26 C11 LH 1973 Terminal 1 09:10
+Breslau (WRO) T1/B15-B17 C70 FR 4545 Terminal 1 13:30
+Berlin (BER) T1/B01-B04 C30 EW 006 Terminal 1 15:25
+Hamburg (HAM) T1/B01-B04 C40 EW 030 Terminal 1 16:00
+Berlin (BER) T1/B01-B04 C40 EW 020 Terminal 1 18:05
+München (MUC) T1/B01-B04 C30 EW 086 Terminal 1 18:55
+München (MUC) T1/B24-B26 C11 LH 1987 Terminal 1 20:05
+Istanbul-Sabiha Gökcen (SAW) T1/B06-B09 B31 PC 1014 Terminal 1 01:05
+Istanbul-Sabiha Gökcen (SAW) T1/B19-B22 B11 TK 7873 Terminal 1 01:10
+Lissabon (LIS) T1/B01-B02 C20 EW 602 Terminal 1 06:15
+Rom-Ciampino (CIA) T1/B15-B17 C70 FR 3018 Terminal 1 06:30
+Porto (OPO) T1/B15-B17 C70 FR 130 Terminal 1 Boarding Ende 08:10
+Berlin (BER) T1/B01-B04 C30 EW 8059 Terminal 1 1. Aufruf Boarding 08:30
+München (MUC) T1/B24-B26 C11 LH 1973 Terminal 1 Beginn Check-In 09:10
+Berlin (BER) T1/B01-B04 C30 EW 006 Terminal 1 15:25
+Hamburg (HAM) T1/B01-B04 C40 EW 030 Terminal 1 16:00
+Berlin (BER) T1/B01-B04 C40 EW 020 Terminal 1 18:05
+München (MUC) T1/B01-B04 C30 EW 086 Terminal 1 18:55
+München (MUC) T1/B24-B26 C11 LH 1987 Terminal 1 20:05
+Istanbul-Sabiha Gökcen (SAW) T1/B06-B09 B31 PC 1014 Terminal 1 01:05
+Istanbul-Sabiha Gökcen (SAW) T1/B19-B22 B11 TK 7873 Terminal 1 01:10
+Lissabon (LIS) T1/B01-B02 C20 EW 602 Terminal 1 06:15
+Rom-Ciampino (CIA) T1/B15-B17 C70 FR 3018 Terminal 1 06:30
+München (MUC) T1/B01-B03 C40 EW 080 Terminal 1 07:00
+Craiova (CRA) T1/B21-B22 B61 W6 3988 Terminal 1 08:05
+Porto (OPO) T1/B15-B17 B80 FR 130 Terminal 1 Beginn Check-In 08:10
+München (MUC) T1/B24-B26 C11 LH 1973 Terminal 1 Beginn Check-In 09:10
+Istanbul (IST) TK 1676 annulliert / CANCELLED 17:55
+Berlin (BER) T1/B01-B04 C20 EW 020 Terminal 1 18:05
+BACAU (BCM) T1/B08-B10 B20 0B 2922 Terminal 1 18:05
+München (MUC) T1/B24-B26 C11 LH 1987 Terminal 1 20:05
+Kiew-Zhulyani (IEV) T2/D26-D27 B21 W6 7308 Terminal 2 20:05
+Istanbul-Sabiha Gökcen (SAW) T1/B06-B09 B20 PC 1014 Terminal 1 01:05
+Istanbul-Sabiha Gökcen (SAW) T1/B19-B22 B50 TK 7873 Terminal 1 01:10
+Nador (NDR) T1/B24-B26 B30 3O 224 Terminal 1 01:15
+Porto (OPO) T1/B15-B17 B80 FR 130 Terminal 1 2. Aufruf Boarding 08:10
+München (MUC) T1/B24-B26 C11 LH 1973 Terminal 1 Beginn Check-In 09:10
+Istanbul (IST) TK 1676 annulliert / CANCELLED 17:55
+Berlin (BER) T1/B01-B04 C20 EW 020 Terminal 1 18:05
+BACAU (BCM) T1/B08-B10 B20 0B 2922 Terminal 1 18:05
+München (MUC) T1/B24-B26 C11 LH 1987 Terminal 1 20:05
+Kiew-Zhulyani (IEV) T2/D26-D27 B21 W6 7308 Terminal 2 20:05
+Istanbul-Sabiha Gökcen (SAW) T1/B06-B09 B20 PC 1014 Terminal 1 01:05
+Istanbul-Sabiha Gökcen (SAW) T1/B19-B22 B50 TK 7873 Terminal 1 01:10
+Nador (NDR) T1/B24-B26 B30 3O 224 Terminal 1 01:15
+Mailand-Bergamo (BGY) T1/B16-B18 C70 FR 8548 Terminal 1 gestartet 08:10
+München (MUC) T1/B24-B26 C11 LH 1973 Terminal 1 Boarding Ende / verspätet 08:50 09:15
+Bacau (BCM) T1/B09-B11 B30 0B 6822 Terminal 1 Beginn Check-In 09:20
+Skopje (SKP) T1/B19-B20 B21 W6 7724 Terminal 1 1. Aufruf Boarding 09:35
+Rom-Ciampino (CIA) T1/B16-B18 B80 FR 3018 Terminal 1 Beginn Check-In 10:15
+Palma de Mallorca (PMI) T1/B16-B18 B80 FR 7208 Terminal 1 13:40
+Berlin (BER) T1/B01-B03 C40 EW 8071 Terminal 1 15:50
+Istanbul (IST) T1/B19-B22 B20 TK 1676 Terminal 1 17:55
+Berlin (BER) T1/B01-B03 C40 EW 8055 Terminal 1 19:25
+München (MUC) T1/B24-B26 C11 LH 1987 Terminal 1 20:05
+Istanbul-Sabiha Gökcen (SAW) T1/B03-B06 B20 PC 1014 Terminal 1 01:05
+Istanbul-Sabiha Gökcen (SAW) T1/B19-B22 B50 TK 7873 Terminal 1 01:05
+Berlin (BER) T1/B01-B02 C40 EW 024 Terminal 1 07:20
+

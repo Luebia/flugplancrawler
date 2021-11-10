@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="de" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+<!-- Seite für die Flughäfen -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Flugplan-Crawler</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+</head>
+<body>
+
+
+	<div >
+		<div style="float:left; width:200px; height:100px; margin-top:10px; display:table;">
+			<img style="margin-left:10px" width=200 height=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BVA_Logo.svg/2000px-BVA_Logo.svg.png"> 
+		</div>
+		
+		<!-- Navbar class="navbar navbar-expand-lg navbar-light bg-light "-->
+		<nav class="navbar navbar-expand-lg navbar-toggler-right navbar-light" style= "display: table-cell; color: white;  margin-right: 2vw; margin-top: 2vw; position: absolute; right: 0;"> <!-- "  background-color: #FFFFFF; width: 800px; height: 100px; display: table-cell; vertical-align: bottom; text-align: right"-->
+			<!-- Container wrapper container-fluid-->
+			<div class="navbar-collapse collapse w-200 order-8 dual-collapse2">
+
+
+
+
+
+
+				<!-- Collapsible wrapper me-auto mb-2 mb-lg-0  id="navbarSupportedContent"-->
+				<div class="navbar-collapse collapse w-200 order-8 dual-collapse2">
+					<ul class="navbar-nav ml-auto">
+						<!-- Link -->
+						<li class="nav-item"><a class="navbar-brand" href="/departures">Abfl&uumlge</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="/arrivals">Ank&uumlnfte</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="/airports">Flugh&aumlfen</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="/scheduler">Suchlauf</a>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+			<!-- Container wrapper -->
+		</nav>
+		
+		<h1 style="margin-left:150px; height:100px; display:table-cell; vertical-align:bottom;">Flugplan-Crawler</h1>
+		<hr/>
+		<h2 style="margin-left:10px">Verf&uumlgbare Flugh&aumlfen:</h2>
+		
+		<table border="1" class = "table table-striped table-responsive-md">
+			<thead>
+				<tr>
+								
+					<th>Airport</th>
+					<th>ICAO</th>
+					<th>IATA</th>
+					<th>AKTIV</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			
+			<tbody>
+			
+				<tr th:each="config : ${listConfigs}">
+				
+					<td th:text="${config.airportName}"></td>
+					
+					<td th:text="${config.icao}"></td>
+					
+					<td th:text="${config.iata}"></td>
+					
+					<td th:text="${config.aktiv} ? 'Ja' : 'Nein'"></td>
+					
+					<td><a th:href="@{/showFormForAirportUpdate/{id}(id=${config.id})}"
+					class="btn btn-primary"><span class="glyphicon glyphicon-pencil"/></a> <a
+						th:href="@{/deleteAirport/{id}(id=${config.id})}"
+						class="btn btn-danger"><span class="glyphicon glyphicon-trash"/></a></td>
+
+				</tr>
+			</tbody>
+		</table>
+
+		 
+
+		
+	</div>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+<!-- Diese Seite wird aufgerufen wenn man einen Flughafen bearbeiten (zur Zeit nur aktivieren/deaktivieren) will. Das Objekt wird angezeigt und man kann es 
+     aktivieren oder deaktivieren. Wenn man auf dieser Seite auf speichern klickt wird das Objekt in der DB geändert -->
+
+<meta charset="ISO-8859-1">
+<title>Flugplan-Crawler</title>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+</head>
+<body>
+
+
+	<div class="container">
+	
+	
+		<div style="float: left; width: 200px; height: 100px; margin-top: 10px; display: table;">
+			<img style="margin-left: 10px" width=200 height=100
+				src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BVA_Logo.svg/2000px-BVA_Logo.svg.png">
+		</div>
+		
+		<!-- Navbar class="navbar navbar-expand-lg navbar-light bg-light "-->
+		<nav class="navbar navbar-expand-lg navbar-toggler-right navbar-light" style= "display: table-cell; color: white;  margin-right: 2vw; margin-top: 2vw; position: absolute; right: 0;"> <!-- "  background-color: #FFFFFF; width: 800px; height: 100px; display: table-cell; vertical-align: bottom; text-align: right"-->
+			<!-- Container wrapper container-fluid-->
+			<div class="navbar-collapse collapse w-200 order-8 dual-collapse2">
+
+
+				<!-- Collapsible wrapper me-auto mb-2 mb-lg-0  id="navbarSupportedContent"-->
+				<div class="navbar-collapse collapse w-200 order-8 dual-collapse2">
+					<ul class="navbar-nav ml-auto">
+						<!-- Link -->
+						<li class="nav-item"><a class="navbar-brand" href="/departures">Abfl&uumlge</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="#">Ank&uumlnfte</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="/airports">Flugh&aumlfen</a>
+						</li>
+						<li class="nav-item"><a class="navbar-brand" href="/scheduler">Suchlauf</a>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+			<!-- Container wrapper -->
+		</nav>
+	
+	
+	
+		<h1>Flugplan-Crawler</h1>
+		<hr>
+		<h2>Flughafen bearbeiten</h2>
+		<hr>
+
+		<form action="#" th:action="@{/saveAirport}" th:object="${config}" method="POST">
+
+			<!-- Add hidden form field to handle update -->
+			<input type="hidden" th:field="*{id}" /> 
+			<h6>Airport</h6>
+			<input type="text" th:field="*{airportName}" th:readonly="true" class="form-control mb-4 col-4">
+			<h6>ICAO-In</h6>
+			<input type="text" th:field="*{icao}"  th:readonly="true" class="form-control mb-4 col-4"> 
+			<h6>IATA</h6>
+			<input type="text" th:field="*{iata}"  th:readonly="true" class="form-control mb-4 col-4"> 
+			<h6>AKTIV</h6>
+			<input type="checkbox" name="aktiv" th:checked="*{aktiv}" class="form-control mb-4 col-4"> 
+
+			<button type="submit" class="btn btn-info col-2">Speichern</button>
+		</form>
+
+		<hr>
+
+		<a th:href="@{/airports}"> Zurueck zur Flughafen-Liste</a>
+	</div>
+</body>
+</html>

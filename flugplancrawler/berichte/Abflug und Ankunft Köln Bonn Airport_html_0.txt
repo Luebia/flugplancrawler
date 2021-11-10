@@ -1,0 +1,2871 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Aktuelle Ankunfts- und Abflugzeiten des Köln Bonn Airport, Flugsuche und Informationen rund um den Flughafen." />
+<meta name="author" content="Flughafen Köln/Bonn GmbH" />
+<meta name="robots" content="index,follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="keywords" content="Abflug, Ankunft, Flughafen Köln, Köln Bonn Airport, Fluginformationen" />
+<meta name="twitter:card" content="summary" />
+<meta name="date" content="2020-11-05" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-30638435f52861335b1230e0e250fbe7.css?1592825330" media="all">
+
+
+
+<script src="/typo3temp/assets/compressed/merged-2648fc2c7cababa5354435f48633f525.js?1583931218" type="text/javascript"></script>
+
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PL37ZX');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" media="all"><script type="text/javascript">var MOBILE='desktop';</script>                
+<link rel="apple-touch-icon" sizes="180x180" href="/fileadmin/cgn/theme/favicon/flights/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/fileadmin/cgn/theme/favicon/flights/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/fileadmin/cgn/theme/favicon/flights/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/fileadmin/cgn/theme/favicon/flights/manifest.json">
+<link rel="mask-icon" href="/fileadmin/cgn/theme/favicon/flights/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/fileadmin/cgn/theme/favicon/flights/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Köln Bonn Airport">
+<meta name="application-name" content="Köln Bonn Airport">
+<meta name="theme-color" content="#ffffff"><title>Abflug und Ankunft Köln Bonn Airport</title><!--[if lte IE 9]><link rel="stylesheet" href="/fileadmin/cgn/theme/css/styles_ie.css" type="text/css" media="screen" /><![endif]-->
+<meta name="google-site-verification" content="ZqQ3DmdCL9bpiSgB4IlUh3iIpXTxEgHQ_ft7haZBVSU" /><meta property="og:title" content="Abflug & Ankunft" /><meta property="og:description" content="Aktuelle Ankunfts- und Abflugzeiten des Köln Bonn Airport, Flugsuche und Informationen rund um den Flughafen." /><meta property="og:image" content="https://www.koeln-bonn-airport.de/fileadmin/templates/images/facebook/Link.jpg" />
+<meta property="og:image:secure_url" content="https://www.koeln-bonn-airport.de/fileadmin/templates/images/facebook/Link.jpg" />
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" /><meta property="og:type" content="article" /><link rel="alternate" hreflang="de" href="https://www.koeln-bonn-airport.de/fluege/abflug-ankunft.html" /><link rel="alternate" hreflang="en" href="https://www.cologne-bonn-airport.com/en/flights/departure-arrival.html" /><link rel="alternate" hreflang="nl" href="https://www.keulen-bonn-airport.nl/nl/vluchten/vertrek-aankomst.html" /><link rel="alternate" hreflang="x-default" href="https://www.cologne-bonn-airport.com/en/flights/departure-arrival.html" />
+<link rel="stylesheet" href="/fileadmin/cgn/lib/PhotoSwipe-master/dist/photoswipe.css">
+		<link rel="stylesheet" href="/fileadmin/cgn/lib/PhotoSwipe-master/dist/default-skin/default-skin.css">
+		<script src="/fileadmin/cgn/lib/PhotoSwipe-master/dist/photoswipe.min.js"></script>
+		<script src="/fileadmin/cgn/lib/PhotoSwipe-master/dist/photoswipe-ui-default.min.js"></script>
+<link rel="alternate" hreflang="de-DE" href="/fluege/abflug-ankunft.html"/>
+<link rel="alternate" hreflang="en-GB" href="/en/flights/departure-arrival.html"/>
+<link rel="alternate" hreflang="nl-NL" href="/nl/vluchten/vertrek-aankomst.html"/>
+<link rel="alternate" hreflang="x-default" href="/fluege/abflug-ankunft.html"/>
+
+<link rel="canonical" href="/fluege/abflug-ankunft.html"/>
+
+
+</head>
+<body>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL37ZX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="cgn-wrapper">
+	<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+	<div class="customHiddenNav">
+	    <h1>Köln Bonn Airport</h1>
+	    <hr />
+	    <h2><a id="navigation_local">Seiteninterne Navigation:</a></h2>
+	    <ul>
+	        <li><a href="#servicenavi_global">zur Servicenavigation des Internetauftitts</a></li>
+	        <li><a href="#areanavigation_global">zur Bereichsnavigation des Internetauftritts</a></li>
+	        <li><a href="#navigation_global">zur Navigation des Internetauftritts</a></li>
+	        <li><a href="#content_local">zum Inhaltsbereich des Internetauftritts</a></li>
+	        <li><a href="#service_global">zum Servicebereich des Internetauftitts</a></li>
+	    </ul>
+	    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+	    <hr /><hr />
+	</div>
+	<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+
+	<div class="tx-cgn-modules">
+	
+	
+	
+
+</div>
+	<div class="carbon-neutral-banner-mobile"><a href="/fluege/klimaneutrales-fliegen.html"><img class="img-responsive" src="/fileadmin/cgn/theme/img/navigation/klima_banner_DE.png" /></a></div>
+	
+	<nav id="mobilenavigation">
+		<div class="container">
+			<ul><li><span><a href="/fluege.html" data-url-mobile="">Flüge</a></span><ul><li class="Selected"><a href="/fluege/abflug-ankunft.html">Abflug & Ankunft</a></li><li><a href="/fluege/gesund-ans-ziel.html" data-url-mobile="">Gesund ans Ziel</a></li><li><a href="/fluege/flug-buchen.html" data-url-mobile="">Flug buchen</a></li><li><a href="/fluege/airlines.html" data-url-mobile="">Airlines</a></li><li><a href="/fluege/flugziele.html" data-url-mobile="">Flugziele ab Köln/Bonn</a></li><li><a href="/fluege/vorabend-check-in.html" data-url-mobile="">Vorabend Check-in</a></li><li><a href="/fluege/reise-checkliste.html" data-url-mobile="">Reise-Checkliste</a></li><li><a href="/fluege/gepaeckermittlung.html" data-url-mobile="">Gepäckermittlung / Lost &amp; Found</a></li><li><a href="/fluege/sicherheitskontrolle.html" data-url-mobile="">Sicherheitskontrolle</a></li><li><a href="/fluege/begleit-und-porterservice.html" data-url-mobile="">Begleit- und Porterservice</a></li><li><a href="/fluege/vip-service.html" data-url-mobile="">VIP-Service</a></li><li><a href="/fluege/klimaneutrales-fliegen.html" data-url-mobile="">Klimaneutrales Fliegen</a><ul><li><a href="/fluege/klimaneutrales-fliegen/kompensation-berechnen.html" data-url-mobile="">Kompensation berechnen</a></li><li><a href="/fluege/klimaneutrales-fliegen/konkretes-projekt.html" data-url-mobile="">Konkretes Projekt</a></li><li><a href="/fluege/klimaneutrales-fliegen/berechnungsgrundlage.html" data-url-mobile="">Berechnungsgrundlage</a></li><li><a href="/fluege/klimaneutrales-fliegen/wer-ist-myclimate.html" data-url-mobile="">Wer ist myclimate?</a></li><li><a href="/fluege/klimaneutrales-fliegen/faqs.html" data-url-mobile="">FAQs</a></li></ul></li><li><a href="/fluege/barrierefrei-reisen.html" data-url-mobile="">Barrierefrei Reisen</a></li><li><a href="/fluege/app-multimedia.html" data-url-mobile="">App &amp; Multimedia</a></li></ul></li><li><span><a href="/parken-anreise.html" data-url-mobile="">Parken &amp; Anreise</a></span><ul><li><a href="/parken-anreise/parkplatz-reservierung.html" data-url-mobile="">Parkplatz-Reservierung</a></li><li><a href="/parken-anreise/infos-zum-parken.html" data-url-mobile="">Infos zum Parken</a><ul><li><a href="/parken-anreise/infos-zum-parken/parken-faqs.html" data-url-mobile="">Parken FAQs</a></li></ul></li><li><a href="/parken-anreise/anreise-mit-dem-pkw.html" data-url-mobile="">Anreise mit dem PKW</a></li><li><a href="/parken-anreise/bus-und-bahn.html" data-url-mobile="">Bus und Bahn</a></li><li><a href="/parken-anreise/fernbus.html" data-url-mobile="">Fernbus</a></li><li><a href="/parken-anreise/mietwagen.html" data-url-mobile="">Mietwagen</a></li><li><a href="/parken-anreise/carsharing.html" data-url-mobile="">Carsharing</a></li><li><a href="/parken-anreise/taxi.html" data-url-mobile="">Taxi</a></li><li><a href="/parken-anreise/fahrrad-und-zu-fuss.html" data-url-mobile="">Fahrrad und zu Fuß</a></li></ul></li><li><a href="/parken-anreise/parkplatz-reservierung.html" data-url-mobile="">Parkplatz-Reservierung</a></li><li><span><a href="/am-airport.html" data-url-mobile="">Am Airport</a></span><ul><li><a href="/am-airport/shoppen-und-essen.html" data-url-mobile="">Shoppen und Essen am Airport</a></li><li><a href="/am-airport/reisebueros.html" data-url-mobile="">Reisebüros</a></li><li><a href="/am-airport/dienstleister-und-service.html" data-url-mobile="">Dienstleister und Service</a></li><li><a href="/am-airport/aerztezentrum.html" data-url-mobile="">Ärztezentrum</a></li><li><a href="/am-airport/konferenzen-und-tagungen.html" data-url-mobile="">Konferenzen und Tagungen</a></li><li><a href="/am-airport/airport-business-lounge.html" data-url-mobile="">Airport Business Lounge</a></li><li><a href="/am-airport/besucherangebote.html" data-url-mobile="">Willkommen am Airport</a></li><li><span><a href="/am-airport/besucherfuehrungen.html" data-url-mobile="">Besucherführungen</a></span><ul><li><a href="/am-airport/besucherfuehrungen/fuehrungen-fuer-gruppen.html" data-url-mobile="">Führungen für Gruppen (ab 10 Personen)</a></li><li><a href="/am-airport/besucherfuehrungen/fuehrungen-fuer-einzelpersonen.html" data-url-mobile="">Führungen für Einzelpersonen</a></li></ul></li><li><a href="/am-airport/aktuelles.html" data-url-mobile="">Aktuelles</a></li><li><a href="/am-airport/hotels-buchen.html" data-url-mobile="">Hotels buchen</a></li><li><a href="/am-airport/airport-webcam.html" data-url-mobile="">Airport Webcam</a></li><li><a href="/am-airport/general-aviation-terminal.html" data-url-mobile="">General Aviation Terminal</a><ul><li><a href="/am-airport/general-aviation-terminal/charter-private-jets.html" data-url-mobile="">Charter &amp; Private Jets</a></li></ul></li><li><a href="/am-airport/pfandprojekt.html" data-url-mobile="">Pfandprojekt</a></li><li><a href="/am-airport/polizei-zoll.html" data-url-mobile="">Polizei, Zoll</a></li><li><a href="/am-airport/wegweiser.html" data-url-mobile="">Wegweiser</a></li></ul></li><li><a href="/am-airport/aktuelles.html" data-url-mobile="">Aktuelles</a></li><li><span><a href="/b2b.html" data-url-mobile="">B2B</a></span><ul><li><a href="/b2b/marketing-und-vertrieb.html" data-url-mobile="">Marketing und Vertrieb</a></li><li><a href="/b2b/cologne-bonn-cargo.html" data-url-mobile="">Cologne Bonn Cargo</a></li><li><a href="/b2b/ground-handling.html" data-url-mobile="">Ground Handling</a></li><li><a href="/b2b/werben-am-airport.html" data-url-mobile="">Werben am Airport</a></li><li><a href="/b2b/event-lounge.html" data-url-mobile="">Event-Lounge</a></li><li><a href="/b2b/reisebuero-expedienten.html" data-url-mobile="">Reisebüro Expedienten</a></li><li><a href="/b2b/foto-und-filmaufnahmen.html" data-url-mobile="">Foto- und Filmaufnahmen</a></li><li><a href="/b2b/fernbusterminal.html" data-url-mobile="">Fernbusterminal</a></li><li><a href="/b2b/aoc-und-nutzerausschuss.html" data-url-mobile="">AOC und Nutzerausschuss</a></li><li><a href="/b2b/einkauf.html" data-url-mobile="">Einkauf</a><ul><li><a href="/b2b/einkauf/ausschreibungen-vergaben.html" data-url-mobile="">Ausschreibungen &amp; Vergaben</a></li><li><a href="/b2b/einkauf/dokumente.html" data-url-mobile="">Dokumente</a></li></ul></li><li><a href="/b2b/zugang-zum-sicherheitsbereich.html" data-url-mobile="">Zugang zum Sicherheitsbereich</a></li><li><a href="/b2b/luftsicherheitsschulung.html" data-url-mobile="">Luftsicherheitsschulung</a></li><li><a href="/b2b/flughafenlieferungen.html" data-url-mobile="">Flughafenlieferungen</a></li><li><a href="/b2b/vertragsbedingungen-entgelte.html" data-url-mobile="">Vertragsbedingungen &amp; Entgelte</a><ul><li><a href="/b2b/vertragsbedingungen-entgelte/versorgungsnetze.html" data-url-mobile="">Versorgungsnetze</a></li><li><a href="/b2b/vertragsbedingungen-entgelte/techn-vertragsbedingungen.html" data-url-mobile="">Technische Vertragsbedingungen</a></li></ul></li></ul></li><li><span><a href="/unternehmen.html" data-url-mobile="">Unternehmen</a></span><ul><li><a href="/unternehmen/flughafen-koelnbonn-gmbh.html" data-url-mobile="">Flughafen Köln/Bonn GmbH</a></li><li><a href="/unternehmen/unternehmensfuehrung.html" data-url-mobile="">Unternehmensführung</a></li><li><a href="/unternehmen/governance-kodex.html" data-url-mobile="">Public Corporate Governance Kodex</a></li><li><a href="/unternehmen/wirtschaftsfaktor.html" data-url-mobile="">Wirtschaftsfaktor</a></li><li><span><a href="/unternehmen/karriere.html" data-url-mobile="">Karriere</a></span></li><li><a href="/unternehmen/daten-fakten.html" data-url-mobile="">Daten &amp; Fakten</a></li><li><a href="/unternehmen/planfeststellung.html" data-url-mobile="">Planfeststellung</a><ul><li><a href="/unternehmen/planfeststellung/faq-zur-planfeststellung.html" data-url-mobile="">FAQ zur Planfeststellung</a></li></ul></li><li><a href="/unternehmen/geschichte.html" data-url-mobile="">Historische Meilensteine</a></li><li><a href="/unternehmen/umwelt-und-laermschutz.html" data-url-mobile="">Umwelt und Lärmschutz</a><ul><li><a href="/unternehmen/umwelt-und-laermschutz/fluglaerm.html" data-url-mobile="">Fluglärm</a></li><li><a href="/unternehmen/umwelt-und-laermschutz/passiver-schallschutz.html" data-url-mobile="">Passiver Schallschutz</a></li><li><a href="/unternehmen/umwelt-und-laermschutz/betriebsrichtung-live.html" data-url-mobile="">Betriebsrichtung live</a></li><li><a href="/unternehmen/umwelt-und-laermschutz/travisflugspuren-live.html" data-url-mobile="">Travis/Flugspuren live</a></li><li><a href="/unternehmen/umwelt-und-laermschutz/glossar.html" data-url-mobile="">Glossar</a></li></ul></li><li><a href="/unternehmen/sanierungsmassnahmen.html" data-url-mobile="">Sanierungsmaßnahmen</a><ul><li><a href="/unternehmen/sanierungsmassnahmen/bahnsanierung.html" data-url-mobile="">Bahnsanierung</a></li><li><a href="/unternehmen/sanierungsmassnahmen/kanalsanierung.html" data-url-mobile="">Kanalsanierung</a></li></ul></li><li><a href="/unternehmen/politikbrief.html" data-url-mobile="">Politikbrief</a></li><li><a href="/unternehmen/flughafenfeuerwehr.html" data-url-mobile="">Flughafenfeuerwehr</a></li><li><a href="/unternehmen/anti-korruption.html" data-url-mobile="">Anti-Korruptions-Management</a></li></ul></li><li><span><a href="/presse.html" data-url-mobile="">Presse</a></span><ul><li><a href="/presse/pressemitteilungen.html" data-url-mobile="">Pressemitteilungen</a></li><li><a href="/presse/bilder.html" data-url-mobile="">Bilder</a></li><li><a href="/presse/film-foto.html" data-url-mobile="">Film &amp; Foto</a></li><li><a href="/presse/publikationen.html" data-url-mobile="">Publikationen</a></li><li><a href="/presse/kontakte.html" data-url-mobile="">Kontakte</a></li></ul></li><li><span><a href="/karriere.html" data-url-mobile="">Karriere</a></span><ul><li><a href="/karriere/jobangebote.html" data-url-mobile="">Jobangebote</a></li><li><a href="/karriere/studiengaenge.html" data-url-mobile="">Studiengänge</a></li><li><a href="/karriere/ausbildungen.html" data-url-mobile="">Ausbildungen</a></li><li><a href="/karriere/praktika.html" data-url-mobile="">Praktika</a></li><li><a href="/karriere/unternehmen-am-flughafen.html" data-url-mobile="">Unternehmen am Flughafen</a></li></ul></li><li><span><a href="/serviceseiten.html" data-url-mobile="">Serviceseiten</a></span><ul><li><a href="/serviceseiten/kontakte.html" data-url-mobile="">Kontakte</a></li><li><a href="/serviceseiten/hilfe-faq.html" data-url-mobile="">Hilfe &amp; FAQ</a></li><li><a href="/serviceseiten/sitemap.html" data-url-mobile="">Sitemap</a></li><li><a href="/serviceseiten/datenschutz.html" data-url-mobile="">Datenschutz</a></li><li><a href="/serviceseiten/impressum.html" data-url-mobile="">Impressum</a></li></ul></li></ul>
+		</div>
+	</nav>
+
+	<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+	<div class="customHiddenNav">
+	    <h2><a id="servicenavi_global">Übergreifender Servicebereich des Internetauftritts</a></h2>
+	</div>
+	<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+
+	<!-- <header class="navbar navbar-static-top "> -->
+	<div class="navbar">
+		<div class="container">
+			<div class="navbar-header row hidden-sm hidden-md hidden-lg">
+				<div class="col-lg-12 col-md-12 col-md-12 col-sm-12">
+				<div class="pull-left brand"><a href="/index.html"><span class="cgn_white int-logo">Köln Bonn Airport</span> <span class="cgn_blue">so&nbsp;simple</span></a></div>
+				<a href="#mobilenavigation" id="hamburger"><span><i style="display:none;">Navigation</i></span></a>
+			</div>
+			</div>
+			<nav class="collapse navbar-collapse ">
+				<ul class="nav navbar-nav">
+					<li><a href="/parken-anreise/parkplatz-reservierung.html" data-url-mobile="https://parking.koeln-bonn-airport.de/iPCP/?mobile=true&loc=de"><i class="arr arr-normal-e"></i>&nbsp;Parkplatz reservieren</a></li><li><a href="/am-airport/aktuelles.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Aktuelles</a></li><li><a href="/karriere/jobangebote.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Karriere</a></li><li><a href="/presse/pressemitteilungen.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Presse</a></li><li><a href="/unternehmen/umwelt-und-laermschutz.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Umwelt</a></li><li><a href="/unternehmen/flughafen-koelnbonn-gmbh.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Unternehmen</a></li><li><a href="/b2b/marketing-und-vertrieb.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;B2B</a></li><li><a href="/serviceseiten/kontakte.html" data-url-mobile=""><i class="arr arr-normal-e"></i>&nbsp;Kontakte</a></li>
+				</ul>
+				<div class="navbar-language-right">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a class="big zoom-out" href="#">A-</a></li>
+						<li><a class="big zoom-in" href="#">A+</a></li>
+						<li><a class="big" href="https://www.cologne-bonn-airport.com/en/flights/departure-arrival.html" ><i class="sym sym-blocksatz"></i>EN</a></li><li><a class="big" href="https://www.keulen-bonn-airport.nl/nl/vluchten/vertrek-aankomst.html"><i class="sym sym-blocksatz"></i>NL</a></a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</div>
+
+
+
+	<div class="naviwrapper hidden-xs">
+	<div class="naviwrapper_gradiant "></div>
+		<div class="container mainnavicontainer">
+			<div class="row brandrow">
+				<div class="col-lg-12 col-md-12 col-md-12 col-sm-12">
+					<div class="pull-left brand"><a href="/index.html">Köln Bonn Airport <span class="cgn_blue">so&nbsp;simple</span></a></div>
+					<div class="pull-right bottom-align-text hidden-xs">
+						
+						<div class="header-nav-searchform"><form method="post" name="fulltextsearch" action="/serviceseiten/suche.html"><div>    	<input type="hidden" name="id" value="175" />
+    	<input type="hidden" name="tx_indexedsearch_pi2[action]" value="search" />
+    	<input type="hidden" name="tx_indexedsearch_pi2[controller]" value="search" /><input type="hidden" name="tx_indexedsearch_pi2[search][searchType]" value="20" /><input type="hidden" name="tx_indexedsearch_pi2[search][languageUid]" value="0" /><input type="hidden" name="tx_indexedsearch_pi2[search][_freeIndexUid]" value="0"><div class="search-form"><label for="headerSearchInput">Suche nach:</label><input type="text" name="tx_indexedsearch_pi2[search][sword]" id="headerSearchInput" class="form-control search-query" placeholder="Suche nach..." value="" class="ac_input" autocomplete="off" /><i class="fa fa-search" aria-hidden="true"></i></div></div></form></div>
+					</div>
+					<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+					<div class="customHiddenNav">
+					    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+					    <hr /><hr />
+					</div>
+					<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->						
+				</div>
+			</div>
+			<div class="row mainnavi">
+				<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+				<div class="customHiddenNav">			
+					<h2><a id="areanavigation_global">Bereichsnavigation des Internetauftritts</a></h2>
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->				
+				
+				<a href="/fluege/abflug-ankunft.html" class="act"><div class="element element-1"><div class="naviiconcontainer" data-id="0"><div class="naviicon" data-id="0"><i class="symp sym-flugzeug-startend cgn_blue"></i><i class="sym sym-flugzeug-startend"></i></div><i class="mirror sym sym-flugzeug-startend" data-id="0"></i></div><div class="toupper">Flüge</div></div></a><a href="/parken-anreise/parkplatz-reservierung.html"><div class="element element-2"><div class="naviiconcontainer" data-id="1"><div class="naviicon" data-id="1"><i class="symp sym-pkw cgn_yellow"></i><i class="sym sym-pkw"></i></div><i class="mirror sym sym-pkw" data-id="1"></i></div><div class="toupper">Parken & Anreise</div></div></a><a href="/am-airport/shoppen-und-essen.html"><div class="element element-3"><div class="naviiconcontainer" data-id="2"><div class="naviicon" data-id="2"><i class="symp sym-koffer cgn_orange"></i><i class="sym sym-koffer "></i></div><i class="mirror sym sym-koffer" data-id="2"></i></div><div class="toupper">Am Airport</div></div></a><a href="/b2b/marketing-und-vertrieb.html"><div class="element element-4"><div class="naviiconcontainer" data-id="3"><div class="naviicon" data-id="3"><i class="symp sym-weltkugel cgn_green"></i><i class="sym sym-weltkugel "></i></div><i class="mirror sym sym-weltkugel" data-id="3"></i></div><div class="toupper">B2B</div></div></a><a href="/unternehmen/flughafen-koelnbonn-gmbh.html"><div class="element element-5"><div class="naviiconcontainer" data-id="4"><div class="naviicon" data-id="4"><i class="symp sym-stift cgn_grey"></i><i class="sym sym-stift "></i></div><i class="mirror sym sym-stift" data-id="4"></i></div><div class="toupper">Unternehmen</div></div></a>
+				
+				<div class="customHiddenNav">
+				    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+				    <hr /><hr />
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+			</div>
+		</div>
+		
+	</div>
+	
+	<div class="container">
+
+		<div class="row">
+			<div id="leftnavigation" class="col-lg-3 col-md-3 col-sm-3 col-xs-12 navicol hidden-xs">
+				<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+				<div class="customHiddenNav">			
+					<h2><a id="navigation_global">Navigation des Internetauftritts</a></h2>
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+				
+				<ul class="navigation"><li><a href="/index.html" title="Startseite"><i class="arr arr-direction2-nw"></i> <span>Startseite</span></a></li><li id="sub1_li_1" class="active"><a href="/fluege/abflug-ankunft.html" title="Abflug &amp; Ankunft" class="active" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Abflug & Ankunft</span></span></a></li><li id="sub1_li_2"><a href="/fluege/gesund-ans-ziel.html" title="Gesund ans Ziel" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Gesund ans Ziel</span></span></a></li><li id="sub1_li_3"><a href="/fluege/flug-buchen.html" title="Flug buchen" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Flug buchen</span></span></a></li><li id="sub1_li_4"><a href="/fluege/airlines.html" title="Airlines" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Airlines</span></span></a></li><li id="sub1_li_5"><a href="/fluege/flugziele.html" title="Flugziele ab Köln/Bonn" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Flugziele</span></span></a></li><li id="sub1_li_6"><a href="/fluege/vorabend-check-in.html" title="Vorabend Check-in" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Vorabend Check-in</span></span></a></li><li id="sub1_li_7"><a href="/fluege/reise-checkliste.html" title="Reise-Checkliste" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Reise-Checkliste</span></span></a></li><li id="sub1_li_8"><a href="/fluege/gepaeckermittlung.html" title="Gepäckermittlung / Lost &amp; Found" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Gepäckermittlung</span></span></a></li><li id="sub1_li_9"><a href="/fluege/sicherheitskontrolle.html" title="Sicherheitskontrolle" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Sicherheitskontrolle</span></span></a></li><li id="sub1_li_10"><a href="/fluege/begleit-und-porterservice.html" title="Begleit- und Porterservice" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Begleit- und Porterservice</span></span></a></li><li id="sub1_li_11"><a href="/fluege/vip-service.html" title="VIP-Service" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>VIP-Service</span></span></a></li><li id="sub1_li_12"><a href="/fluege/klimaneutrales-fliegen.html" title="Klimaneutrales Fliegen" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Klimaneutrales Fliegen</span></span></a></li><li id="sub1_li_13"><a href="/fluege/barrierefrei-reisen.html" title="Barrierefrei Reisen" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>Barrierefrei Reisen</span></span></a></li><li id="sub1_li_14"><a href="/fluege/app-multimedia.html" title="App &amp; Multimedia" data-url-mobile=""><span><i class="arr arr-direction1-e"></i> <span>App & Multimedia</span></span></a></li><div class="carbon-neutral-banner"><a href="/fluege/klimaneutrales-fliegen.html"><img class="img-responsive" src="/fileadmin/cgn/theme/img/navigation/klima_banner_DE.png" /></a></div></ul>
+				
+				<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+				<div class="customHiddenNav">
+				    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+				    <hr /><hr />
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+			</div>
+			<div id="content" class="col-lg-9 col-md-9 col-sm-9 col-xs-12 defaultpagecontainer">
+				<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+				<div class="customHiddenNav">			
+					<h2><a id="content_local">Inhaltsbereich des Internetauftritts</a></h2>
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->	
+				
+				<!-- CONTENTPARSER_START_CONTENT -->
+  				
+    <ol class="breadcrumb"><li class="first"><a href="/index.html" class="noarrow">Startseite</a></li><li><a href="/fluege/abflug-ankunft.html" class="noarrow">Flüge</a></li><li><a href="/fluege/abflug-ankunft.html" class="noarrow">Abflug & Ankunft</a></li></ol>
+    <!--TYPO3SEARCH_begin-->
+    	
+	    	<h1>Abflug & Ankunft</h1>
+    	
+        
+<div id="c4079" class="frame frame-default frame-type-html frame-layout-0"><div style="background:#ffe59c; border:4px solid #fab900;padding: 0.2em 1em; border-radius:10px; margin-bottom: 1em;"><p><strong>Wichtiger Hinweis:</strong><br />Aktuell werden die Check-Ins für alle Flüge im Terminal 1 im Bereich 1B durchgeführt. Bitte informieren Sie sich beim Eintreffen am Flughafen an den Abflugmonitoren zu Änderungen bezüglich der Check-In-Schalter bzw. der Abflug-Gates.
+  </p></div></div>
+
+
+<div id="c12" class="frame frame-default frame-type-list frame-layout-0">
+<div class="tx-cgn-flightschedule">
+	
+	<script type="text/javascript">
+	
+		var TYPE_JSON=6;var TYPE_AJAX=3;var TYPE_XML=4;var TYPE_CALENDAR=5;
+	
+		var containerID='flights';
+		
+		function formChanged(obj) {
+			
+		    if ($("#datetimepickerSTARTDATE").data("DateTimePicker").date())
+		    $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+		    else $("form[name=form"+containerID+"] .inputstart").val(""); 
+			doFlightsearch($("form[name=" + obj + "]"), false);
+
+		}
+
+		function letitfly() {
+			$("#ajaxplane").animate({
+				opacity : 0.25,
+				left : "+=90%"
+			}, 3000, function() {
+				$("#ajaxplane").css({
+					'opacity' : 1,
+					'left' : 0
+				});
+				letitfly()
+			});
+		}
+
+		function doFlightsearch(obj, append) {
+
+			if ($("#ajaxindicator").size() > 0) {
+				return false;
+				//läuft noch
+			}
+
+			var f = $(obj);
+			if (!append)$("input.pagenr").val(0);
+			var container = $('#' + f.attr('data-container'));
+			if (append) {
+				container.append('<div id="ajaxindicator" class="row"><i id="ajaxplane" class="sym sym-flugzeug"></i></div>');
+			} else {
+				container.html('<div id="ajaxindicator" class="row"><i id="ajaxplane" class="sym sym-flugzeug"></i></div>');
+			}
+			letitfly();
+			$.ajax({
+				url : f.attr('action') + '?' + f.serialize(),
+			}).done(function(data) {
+				if (append) {
+					$("#ajaxindicator").remove();
+					container.append(data);
+				} else {
+					container.html(data);
+				}
+
+			});
+
+			return false;
+		}
+
+
+		$(document).ready(function() {
+	
+		    
+		    $('#datetimepickerSTARTDATE').datetimepicker({
+			    locale : 'de',
+			    stepping : 15,
+			    format : "DD.MM.YYYY HH:mm",
+			    defaultDate : "",//"2020-11-30 12:30",
+			    sideBySide : true,
+			    debug:false,
+			    icons : {
+				time : "fa fa-fw fa-clock-o",
+				date : "fa fa-calendar",
+				up : "fa fa-arrow-up",
+				down : "fa fa-arrow-down",
+				next : "fa fa-arrow-right",
+				previous : "fa fa-arrow-left"
+			    }
+			});
+		    
+		    if ($("#datetimepickerSTARTDATE").data("DateTimePicker").date()) $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+		    else $("form[name=form"+containerID+"] .inputstart").val("");
+
+			$("#datetimepickerSTARTDATE").on("dp.change", function(e) {
+			    var tmpDateTimeFrom = e.date;
+			    if ($("#datetimepickerSTARTDATE").data("DateTimePicker").date())	    $("form[name=form"+containerID+"] .inputstart").val($("#datetimepickerSTARTDATE").data("DateTimePicker").date().unix());
+			    else  $("form[name=form"+containerID+"] .inputstart").val("");
+			});
+		    
+		    
+		    
+		    
+			$('#flights .panel-collapse').on('show.bs.collapse', function() {
+				$('#' + $(this).attr('aria-labelledby')).addClass('in');
+			});
+			$('#flights .panel-collapse').on('hide.bs.collapse', function() {
+				$('#' + $(this).attr('aria-labelledby')).removeClass('in');
+			});
+
+			$("#flightcontrol2 a.btn").click(function(e) {
+				var obj = 'form' + $(this).attr("data-container");
+				doFlightsearch($("form[name=" + obj + "]"), false);
+			});
+
+			$("#flightcontrol3 .btn").click(function(e) {
+
+				var val = $(this).attr("data-value");
+				var obj = 'form' + $(this).attr("data-container");
+				if (val == 25 || val == 50 || val == 'ALL') {
+					$("#flightcontrol3 .btn").removeClass("active");
+					$("#flightcontrol3 .btn[data-value=" + val + "]").addClass("active");
+
+					if (val == 'ALL')
+						$("#flightcontrol3 .btn[data-value=MORE]").hide();
+					else
+						$("#flightcontrol3 .btn[data-value=MORE]").show();
+
+					$("form[name=" + obj + "] .flightsperpage").val(val);
+					doFlightsearch($("form[name=" + obj + "]"), false);
+				} else {
+					$("form[name=" + obj + "] .pagenr").val($("form[name=" + obj + "] .pagenr").val() * 1 + 1);
+
+					doFlightsearch($("form[name=" + obj + "]"), true,true);
+				}
+
+			});
+
+			$("#flightcontrol2 #fcMode a").click(function(e) {
+				var mode = $(this).attr("data-value");
+				var obj = 'form' + $(this).attr("data-container");
+				$("form[name=" + obj + "] .mode").val(mode);
+				$("form[name=" + obj + "] .inputstart").val("");
+				
+				$("#dtpSTARTDATE").val("");
+				doFlightsearch($("form[name=" + obj + "]"), false);				
+				$("#fcModeD").removeClass("act");
+				$("#fcModeA").removeClass("act");
+				$(this).addClass("act");
+			});
+
+			$(".autocomplete_destination").typeahead({
+				minLength : 2,
+				autoSelect:false,
+				updater : function(item) {
+					if (item.indexOf(' ') > -1) {
+						item = '"' + item + '"';
+					}
+					return item;
+				},
+				source : function(q, process) {
+					return $.getJSON('/index.php', {
+						'type' : TYPE_JSON,
+						'id':14,
+						'tx_cgnflightschedule_flightschedule[controller]' : 'FlightSchedule',
+						'tx_cgnflightschedule_flightschedule[action]' : 'autocomplete',
+						'tx_cgnflightschedule_flightschedule[q]' : q,
+					}, function(data) {
+						return process(data);
+					});
+				}
+			});
+
+			$(".autocomplete_airline").typeahead({
+				minLength : 2,
+				autoSelect:false,
+				/*updater : function(item) {
+				 if (item.indexOf(' ') > -1) {
+				 item = '"' + item + '"';
+				 }
+				 return item;
+				 },*/
+				source : function(q, process) {
+					return $.getJSON('/index.php', {
+						'type' : TYPE_JSON,
+						'id':14,
+						'tx_cgnflightschedule_flightschedule[controller]' : 'FlightSchedule',
+						'tx_cgnflightschedule_flightschedule[action]' : 'autocompleteAirlines',
+						'tx_cgnflightschedule_flightschedule[q]' : q,
+					}, function(data) {
+						return process(data);
+					});
+				}
+			});
+
+		});
+	</script>
+
+	
+	<!-- wake up fluid! -->
+
+	<form class="form-horizontal" data-container="flights"
+	name="formflights" onsubmit="return doFlightsearch(this,false)"
+	action="index.php">
+		<input type="hidden"
+		name="tx_cgnflightschedule_flightschedule[page]" value="0"
+		class="pagenr">
+		<input type="hidden" name="cid"
+		value="flights">
+		<input type="hidden" name="id"
+		value="14">
+		<input type="hidden" name="type"
+		value="3">
+		<input type="hidden" name="L"
+		value="0">			
+		<input type="hidden" name="no_cache"
+		value="1">
+		<input type="hidden"
+		name="tx_cgnflightschedule_flightschedule[controller]"
+		value="FlightSchedule">
+		<input type="hidden"
+		name="tx_cgnflightschedule_flightschedule[action]"
+		value="flightSearch">
+		<input class="mode" type="hidden"
+		name="tx_cgnflightschedule_flightschedule[mode]" value="D">
+		<input type="hidden"
+		name="tx_cgnflightschedule_flightschedule[limitFrom]"
+		value="">
+		<input class="flightsperpage"
+		type="hidden"
+		name="tx_cgnflightschedule_flightschedule[flightsperpage]"
+		value="25">
+		<input class="inputstart"
+		type="hidden" name="tx_cgnflightschedule_flightschedule[START]"
+		value="">
+		<input placeholder="END" type="hidden"
+		name="tx_cgnflightschedule_flightschedule[END]" value="">
+		
+		<div id="flightcontrol2" class="panel panel-default cgnContainer container-default  ">
+<div class="panel-body">
+	 
+<div class="row fcRow fcMode" id="fcMode">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 no-padding-right">
+					<div class="row">
+						<a href="javascript:void(0);" class="noarrow act" type="button" id="fcModeD" data-container="flights" data-value="D"><i class="sym sym-flugzeug-startend"></i>Abflug</a>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 no-padding-left">
+					<div class="row">
+						<a href="javascript:void(0);" class="noarrow" type="button" id="fcModeA" data-container="flights" data-value="A"><i class="sym sym-flugzeug-landend"></i>Ankunft</a>
+					</div>
+				</div>					
+			</div>
+			
+			<div class="row fcRow fcRowSmall">
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 small-padding-right">
+					<div class="row">
+						<label class="form-label-hidden" for="tx_cgnflightschedule_flightschedule[destination]">Flugziel, Flugnummer, Land: </label>
+						<input class="autocomplete_destination form-control"
+						placeholder="Flugziel, Flugnummer, Land"
+						type="text" autocomplete="off"
+						name="tx_cgnflightschedule_flightschedule[destination]" 
+						id="tx_cgnflightschedule_flightschedule[destination]"
+						value="">
+					</div>
+				</div>
+	
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 small-padding-left">
+							<div class="input-group date" id='datetimepickerSTARTDATE'>
+								<input type='text' id="dtpSTARTDATE" name="tx_cgnflightschedule_flightschedule[dtpSTARTDATE]"
+									class="form-control"  /> <span class="input-group-addon">
+									<span class="fa fa-calendar"></span>
+								</span>
+							</div>
+							
+											 
+				</div>
+			</div>
+	
+			<div class="row fcRow no-margin-bottom">
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 small-padding-right">
+					<div class="row">
+						<label class="form-label-hidden" for="tx_cgnflightschedule_flightschedule[airline]">Fluggesellschaft: </label>
+						<input class="form-control autocomplete_airline"
+							placeholder="Fluggesellschaft"
+							type="text" autocomplete="off"
+							name="tx_cgnflightschedule_flightschedule[airline]" 
+							id="tx_cgnflightschedule_flightschedule[airline]"
+							value="">
+					</div>
+				</div>
+	
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 small-padding-left">
+					<div class="row">
+						<div class="form-group no-margin">
+							<label class="form-label-hidden" for="tx_cgnflightschedule_flightschedule[tolerance]">Toleranz: </label>
+							<select onchange="formChanged('formflights')"
+							class="form-control tolerance " style="width: 100%"
+							name="tx_cgnflightschedule_flightschedule[tolerance]" 
+							id="tx_cgnflightschedule_flightschedule[tolerance]">
+								
+	
+	<option value="0"  >+/- 1 Tag Toleranz</option>
+	
+	<option value="3"  >+/- 3 Tage Toleranz</option>
+	
+	<option value="7"  >+/- 7 Tage Toleranz</option>
+	
+	<option value="14"  >+/- 14 Tage Toleranz</option>
+	
+
+							</select>
+	
+						</div>
+					</div>
+				</div>
+			</div>
+</div>
+</div>
+		
+		<div class="row fcRow no-margin-bottom margin-top-fsSubmitButton">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:right;">
+				<button type="submit" class="btn btn-default green fsSubmitButton">Suche starten <i class="arr">A</i></button>
+			</div>
+		</div>
+
+	</form>
+
+	<div class="row">
+		<div id="flights">
+			 
+
+
+		<div class="panel flight-header">
+			<div class="panel-heading">
+				<div class="row flightheader">
+					<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+						<div class="row">
+							<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+								<div class="flightheader-destination">
+									
+											Flugziel
+										
+								</div>
+							</div>
+							
+									<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">
+										<div class="flightheader-flightnumber">Check-In</div>
+									</div>
+									<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">
+										<div class="flightheader-flightnumber">Gate</div>
+									</div>
+								
+
+							<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+								<div class="flightheader-flightnumber">
+									Flug&shy;nummer
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+						<div class="row">
+							<div class="col-lg-8 col-md-8 col-sm-7 col-xs-7 no-padding">
+								<div class="flightheader-status">
+									Status
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+								style="text-align: right;">
+								<div class="flightheader-time">
+									
+											Ab&shy;flug&shy;zeit
+										
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+			
+				<div class="row">
+					<div
+						class="col-lg-12 col-md-12 col-sm-12 col-xs-12 flight-datelabel-header">
+						<label>Montag,  30.11.2020</label>
+					</div>
+				</div>
+			
+			<div class="panel flight" id="17230987">
+				<div class="panel-heading" role="tab" id="heading17230987">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17230987"
+										aria-expanded="false" aria-controls="collapse17230987"><span>
+											<!--  D -->Palma de Mallorca
+											(PMI)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B16-B18</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">D30</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>FR 7208</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									<i class="sym sym-flugzeug"></i> rollt
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									13:40
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17230987" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17230987">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B16-B18
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>D30</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=139&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=74f8bede6a57a111a6d8fd2cd609f4b6">Ryanair
+													(RYR)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>B737-800 Winglets</dd>
+									
+									
+									
+										<dt>
+											Bemerkung:
+										</dt>
+										<dd>
+											
+												
+												<i class="sym sym-flugzeug"></i> rollt
+												
+												
+												
+											
+										</dd>
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=PMI&amp;cHash=9b09d5ce811a78b661accd038dc300e8"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Palma+de+Mallorca&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+FR+7208/Ryanair/Palma+de+Mallorca-PMI"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17230982">
+				<div class="panel-heading" role="tab" id="heading17230982">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17230982"
+										aria-expanded="false" aria-controls="collapse17230982"><span>
+											<!--  D -->Alicante
+											(ALC)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B16-B18</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">D20</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>FR 1355</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									15:35
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17230982" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17230982">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B16-B18
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>D20</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=139&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=74f8bede6a57a111a6d8fd2cd609f4b6">Ryanair
+													(RYR)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>B737-800 Wing &amp;Ladeh</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=ALC&amp;cHash=129081666825245c554c2f7fad86262e"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Alicante&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+FR+1355/Ryanair/Alicante-ALC"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-11-30_1535_FR1355.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201130_D_FR1355">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17230981">
+				<div class="panel-heading" role="tab" id="heading17230981">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17230981"
+										aria-expanded="false" aria-controls="collapse17230981"><span>
+											<!--  D -->Berlin
+											(BER)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B03</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C30</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW 8071</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									15:50
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17230981" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17230981">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B03
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C30</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A319 - 100</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=BER&amp;cHash=eed92408b5755b1c594c50c1e6fdbacd"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Berlin&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+EW+8071/Eurowings/Berlin-BER"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-11-30_1550_EW8071.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201130_D_EW8071">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17230969">
+				<div class="panel-heading" role="tab" id="heading17230969">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17230969"
+										aria-expanded="false" aria-controls="collapse17230969"><span>
+											<!--  D -->München
+											(MUC)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B03</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C40</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW  086</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									18:00
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17230969" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17230969">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B03
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C40</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A319 - 100</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=MUC&amp;cHash=da813ac29ca0005fdcc0b5aa757236ad"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=M%C3%BCnchen&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+EW+086/Eurowings/München-MUC"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-11-30_1800_EW086.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201130_D_EW086">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17230977">
+				<div class="panel-heading" role="tab" id="heading17230977">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17230977"
+										aria-expanded="false" aria-controls="collapse17230977"><span>
+											<!--  D -->Berlin
+											(BER)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B03</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C50</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW 8055</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									19:25
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17230977" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17230977">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B03
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C50</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A319 - 100</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=BER&amp;cHash=eed92408b5755b1c594c50c1e6fdbacd"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Berlin&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+EW+8055/Eurowings/Berlin-BER"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-11-30_1925_EW8055.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201130_D_EW8055">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231004">
+				<div class="panel-heading" role="tab" id="heading17231004">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231004"
+										aria-expanded="false" aria-controls="collapse17231004"><span>
+											<!--  D -->München
+											(MUC)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B24-B26</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C11</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>LH 1987</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									20:05
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231004" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231004">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B24-B26
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C11</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=179&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=d07bd8c2273b8336662053fe0bb65533">Deutsche Lufthansa AG
+													(DLH)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>CL 600 RJ-900</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=MUC&amp;cHash=da813ac29ca0005fdcc0b5aa757236ad"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=M%C3%BCnchen&amp;hs_arrival=30.11.2020&amp;hs_departure=01.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/30-11-2020/Flugnummer+LH+1987/Deutsche+Lufthansa+AG/München-MUC"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-11-30_2005_LH1987.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201130_D_LH1987">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+				<div class="row">
+					<div
+						class="col-lg-12 col-md-12 col-sm-12 col-xs-12 flight-datelabel-header">
+						<label>Dienstag,  01.12.2020</label>
+					</div>
+				</div>
+			
+			<div class="panel flight" id="17231317">
+				<div class="panel-heading" role="tab" id="heading17231317">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231317"
+										aria-expanded="false" aria-controls="collapse17231317"><span>
+											<!--  D -->Istanbul-Sabiha Gökcen
+											(SAW)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B03-B06</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">D30</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>PC 1014</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									01:05
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231317" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231317">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B03-B06
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>D30</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=46&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=b1b2ba522658d2ae16a32fc653de3c7c">Pegasus Hava Tasimaciligi AS
+													(PGT)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A321 - 100/200 Neo, Sharklets</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=SAW&amp;cHash=c70c43b49cd95da27ebad8d4cd8239c0"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Istanbul-Sabiha+G%C3%B6kcen&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+PC+1014/Pegasus+Hava+Tasimaciligi+AS/Istanbul-Sabiha+Gökcen-SAW"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0105_PC1014.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_PC1014">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231393">
+				<div class="panel-heading" role="tab" id="heading17231393">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231393"
+										aria-expanded="false" aria-controls="collapse17231393"><span>
+											<!--  D -->Istanbul-Sabiha Gökcen
+											(SAW)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B19-B22</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">D10</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>TK 7873</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									01:05
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231393" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231393">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B19-B22
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>D10</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=54&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=d09b5fae89fe84fc105bbfd464a939cb">Turkish Airlines Inc.
+													(THY)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>B737-800 Wing &amp;Ladeh</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=SAW&amp;cHash=c70c43b49cd95da27ebad8d4cd8239c0"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Istanbul-Sabiha+G%C3%B6kcen&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+TK+7873/Turkish+Airlines+Inc./Istanbul-Sabiha+Gökcen-SAW"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0105_TK7873.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_TK7873">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231270">
+				<div class="panel-heading" role="tab" id="heading17231270">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231270"
+										aria-expanded="false" aria-controls="collapse17231270"><span>
+											<!--  D -->München
+											(MUC)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B02</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C30</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW  080</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									07:00
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231270" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231270">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B02
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C30</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A319 - 100</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=MUC&amp;cHash=da813ac29ca0005fdcc0b5aa757236ad"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=04:00&end_time=04:00"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=M%C3%BCnchen&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+EW+080/Eurowings/München-MUC"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0700_EW080.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_EW080">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231268">
+				<div class="panel-heading" role="tab" id="heading17231268">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231268"
+										aria-expanded="false" aria-controls="collapse17231268"><span>
+											<!--  D -->Berlin
+											(BER)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B02</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C20</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW  024</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									07:20
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231268" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231268">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B02
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C20</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A320 - 200</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=BER&amp;cHash=eed92408b5755b1c594c50c1e6fdbacd"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=04:20&end_time=04:20"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Berlin&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+EW+024/Eurowings/Berlin-BER"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0720_EW024.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_EW024">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231279">
+				<div class="panel-heading" role="tab" id="heading17231279">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231279"
+										aria-expanded="false" aria-controls="collapse17231279"><span>
+											<!--  D -->Hamburg
+											(HAM)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B01-B02</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C50</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>EW 7033</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									08:45
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231279" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231279">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B01-B02
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C50</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=164&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=961b4014015207ea1e04c585d4635a7b">Eurowings
+													(EWG)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A320 - 200 Neo, Sharklets</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=HAM&amp;cHash=59d387390ea9b54fa4559cc3e8833f29"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=05:45&end_time=05:45"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Hamburg&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+EW+7033/Eurowings/Hamburg-HAM"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0845_EW7033.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_EW7033">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231308">
+				<div class="panel-heading" role="tab" id="heading17231308">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231308"
+										aria-expanded="false" aria-controls="collapse17231308"><span>
+											<!--  D -->München
+											(MUC)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B24-B26</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">C11</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>LH 1973</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									09:10
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231308" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231308">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B24-B26
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>C11</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=179&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=d07bd8c2273b8336662053fe0bb65533">Deutsche Lufthansa AG
+													(DLH)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>CL 600 RJ-900</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=MUC&amp;cHash=da813ac29ca0005fdcc0b5aa757236ad"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=06:10&end_time=06:10"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=M%C3%BCnchen&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+LH+1973/Deutsche+Lufthansa+AG/München-MUC"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_0910_LH1973.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_LH1973">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231283">
+				<div class="panel-heading" role="tab" id="heading17231283">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231283"
+										aria-expanded="false" aria-controls="collapse17231283"><span>
+											<!--  D -->Palermo
+											(PMO)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B15-B18</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">D20</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>FR 8430</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									10:15
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231283" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231283">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B15-B18
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>D20</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=139&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=74f8bede6a57a111a6d8fd2cd609f4b6">Ryanair
+													(RYR)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>B737-800 Wing &amp;Ladeh</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=PMO&amp;cHash=e4adf093a573b2ff092aa4f75b5bccb9"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=07:15&end_time=07:15"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Palermo&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+FR+8430/Ryanair/Palermo-PMO"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_1015_FR8430.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_FR8430">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			
+			<div class="panel flight" id="17231572">
+				<div class="panel-heading" role="tab" id="heading17231572">
+					<div class="row flightheader">
+						<div class="col-lg-8 col-md-8 col-sm-7 col-xs-8 no-padding">
+							<div class="row">
+								<div class="col-lg-5 col-md-5 col-sm-8 col-xs-8 no-padding-left">
+									
+											<div class="boarding-icon">
+												<i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i>
+											</div>
+										
+
+									<a class="collapsed" role="button" data-toggle="collapse"
+										data-parent="#flightsX" href="#collapse17231572"
+										aria-expanded="false" aria-controls="collapse17231572"><span>
+											<!--  D -->Nador
+											(NDR)
+									</span></a>
+								</div>
+								
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">T1/B08-B10</div>
+										<div class="col-lg-2 col-md-2 hidden-sm hidden-xs no-padding">B20</div>
+									
+
+								<div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 no-padding">
+									<nobr>3O  224</nobr>
+									
+										<div class="hidden-lg hidden-md" style="font-weight: normal;">
+											Terminal 1
+										</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-5 col-xs-4 no-padding">
+							<div class="row">
+								<div
+									class="col-lg-8 col-md-8 col-sm-7 col-xs-7 cgn_green_dark no-padding">
+									
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-5 col-xs-5 no-padding"
+									style="text-align: right;">
+									11:25
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="collapse17231572" class="panel-collapse collapse "
+					role="tabpanel" aria-labelledby="heading17231572">
+					<div class="panel-body">
+						<div class="row flightdetail">
+							<div
+								class="col-lg-8 col-md-8 col-sm-7 col-xs-8 col-xxs-12 no-padding">
+								<dl class="dl-horizontal flightInfoList">
+									
+									
+										<dt>Check-In:</dt>
+										<dd>
+											Terminal 1 / B08-B10
+										</dd>
+									
+									
+										<dt>Gate:</dt>
+										<dd>B20</dd>
+									
+								</dl>
+								<dl class="dl-horizontal flightInfoList">
+									<dt>
+										Airline:
+									</dt>
+									<dd>
+										
+												<a
+													href="/fluege/airlines.html?tx_cgnmodules_modules%5Baction%5D=airlineShow&amp;tx_cgnmodules_modules%5Bairline%5D=128&amp;tx_cgnmodules_modules%5Bcontroller%5D=Airlines&amp;cHash=d89c6f87c83ae59704d96867dd3e760a">Air Arabia Maroc
+													(MAC)</a>
+												<br>
+											
+									</dd>
+									
+										<dt>
+											Flugzeugtyp:
+										</dt>
+										<dd>A320 - 200</dd>
+									
+									
+									
+								</dl>
+							</div>
+							<div
+								class="col-lg-4 col-md-4 col-sm-5 col-xs-5 col-xxs-12 no-padding">
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow btn btn-default green"
+												href="https://www.koeln-bonn-airport.de/fluege/flug-buchen.html?dep=2020-12-01&amp;from=CGN&amp;to=NDR&amp;cHash=824d38c534a784a038933c46e171b1fd"><i
+												class="sym sym-flugzeug"></i> Flug buchen
+												<i class="arr">A</i></a><br /> <br />
+										</dd>
+									
+									
+										<dd>
+											<a class="noarrow btn btn-default orange" target="_blank"
+												href="https://parking.koeln-bonn-airport.de/iPCP/reservation/create?loc=de&begin_date=2020-12-01&end_date=2020-12-02&begin_time=08:25&end_time=08:25"><i
+												class="sym sym-pkw"></i> Wunschparkplatz finden <i class="arr">A</i></a><br />
+											<br />
+										</dd>
+									
+									<dd>
+										<a class="noarrow" target="_blank" href="http://www.hotel.de/search.aspx?han=7163689&amp;lng=DE&amp;hs_destination=Nador&amp;hs_arrival=01.12.2020&amp;hs_departure=02.12.2020"><i
+											class="arr arr-direction1-ne"></i> Hotels</a>
+									</dd>
+									<dd>
+										<a class="noarrow" target="_blank"
+											href="http://www.auswaertiges-amt.de/EN/Startseite_node.html"><i
+											class="arr arr-direction1-ne"></i> Länderinformation</a>
+									</dd>
+								</dl>
+
+								<dl class="dl-horizontal linkList">
+									
+										<dd>
+											<a class="noarrow" target="_blank" href="http://www.flyamo.de/Flughafen/Köln-Bonn-CGN/Flugplan/Abflug/01-12-2020/Flugnummer+3O+224/Air+Arabia+Maroc/Nador-NDR"><i
+												class="arr arr-direction1-ne"></i> SMS-Update</a>
+										</dd>
+									
+									<dd>
+										<a class="noarrow" href='http://www.koeln-bonn-airport.de/fluege/klimaneutrales-fliegen.html'><i
+											class="arr arr-direction1-e"></i> Klimaneutral fliegen</a>
+									</dd>
+									
+										<dd>
+											<a class="noarrow" target="_blank"
+												download="2020-12-01_1125_3O224.ics"
+												href="/?type=5&cgnflightschedule_flightschedule%5bcontroller%5d=Flightschedule&tx_cgnflightschedule_flightschedule%5baction%5d=getFlightICS&tx_cgnflightschedule_flightschedule%5bid%5d=20201201_D_3O224">
+												<i class="arr arr-direction2-se"></i> In Kalender eintragen
+											</a>
+										</dd>
+									
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		<script>
+	    $(document).ready(function() {
+		showBoarding();
+
+		if ($('#flightcontrol3').length > 0 && $('#flightcontrol3').is(':hidden')) {
+		    $('#flightcontrol3').show();
+		}
+	    });
+	</script>
+	
+		</div>
+	</div>
+
+	<div class="row" id="flightcontrol3">
+		<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 no-padding">
+			<a data-container="flights" type=button
+			class="btn btn-default green active" data-value="25">25</a>
+			<a data-container="flights" type=button
+			class="btn btn-default green" data-value="50">50</a>
+			<a data-container="flights" type=button class="btn btn-default green" data-value="ALL">
+			alle Flüge
+			<i class="arr arr-normal-e"></i></a>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 no-padding">
+			<a data-container="flights" class="pull-right btn btn-default green" data-value="MORE" >
+			weitere Flüge
+			<i class="arr arr-normal-e"></i></a>
+		</div>
+	</div>
+
+
+</div></div>
+
+
+<div id="c3418" class="frame frame-default frame-type-html frame-layout-0"><div id='npm_6653521'></div></div>
+
+
+    <!--TYPO3SEARCH_end-->
+
+  				<!-- CONTENTPARSER_END_CONTENT -->
+  				
+				<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+				<div class="customHiddenNav">
+				    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+				    <hr /><hr />
+				</div>
+				<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->
+				
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+	<div class="customHiddenNav">			
+		<h2><a id="service_global">Servicebereich des Internetauftritts</a></h2>
+	</div>
+	<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->	
+	
+	<div class="footerhead"><div class="container"><div class="row"><div class="col-lg-12"><img class="" alt="Skyline" src="/fileadmin/cgn/theme/img/footer_skyline.png" srcset="/fileadmin/cgn/theme/img/footer_skyline@2x.png 2x"></div></div></div></div>
+	
+	<footer>
+		<div class="footerWrapper">
+		    <div class="footerlinks">
+			    <div class="container"><div class="row"><div class="footer-col-1 col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div id="c1" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class="">
+				Parken
+			</h3></header><p>Direkt&nbsp;am Köln Bonn Airport parken, ohne Umwege. Jetzt reservieren!</p></div>
+
+
+<div id="c2064" class="frame frame-default frame-type-list frame-layout-0"><div class="row"><form id="dpFrameForm" action="https://parking.koeln-bonn-airport.de/iPCP/reservation/create" method="get" target="_blank"><div class="col-lg-4" style="padding-right:0px;"><p><label for="datefrom">Parken von:</label></p></div><div class="form-group form-group-sm col-lg-8"><div class='input-group date' id='datetimepickerFrom'><input type='text' id="datefrom" name="datefrom" class="form-control" /><span class="input-group-addon"><span class="fa fa-calendar"></span></span></div></div><div class="col-lg-4" style="padding-right:0px;"><p><label for="dateto">bis:</label></p></div><div class="form-group form-group-sm col-lg-8"><div class='input-group date' id='datetimepickerTo'><input type='text' id="dateto" name="dateto" class="form-control" /><span class="input-group-addon"><span class="fa fa-calendar"></span></span></div></div><div class="col-lg-12"><button type="button" class="btn btn-block" onClick="$('#dpFrameForm').submit();">Wunschparkplatz finden<i class="arr arr-normal-e"></i></button></div><input type="hidden" name="loc" value="de" /><input type="hidden" id="DatepickerFromData" name="begin_date" value="2020-12-01" /><input type="hidden" id="DatepickerToData" name="end_date" value="2020-12-02" /><input type="hidden" id="DatepickerFromTimeData" name="begin_time" value="14:00" /><input type="hidden" id="DatepickerToTimeData" name="end_time" value="18:00" /><script type="text/javascript">
+            $(function () {
+            	var locDP = 'de';
+            	
+                $('#datetimepickerFrom').datetimepicker({
+              		locale: locDP,
+              		stepping: 15,
+              		format: "DD.MM.YYYY HH:mm",
+                	defaultDate: "2020-12-01 14:00",
+                	sideBySide: true,
+                	icons: {
+                    	time: "fa fa-fw fa-clock-o",
+                    	date: "fa fa-calendar",
+                    	up: "fa fa-arrow-up",
+                    	down: "fa fa-arrow-down",
+	                    next: "fa fa-arrow-right",
+	                    previous: "fa fa-arrow-left"
+                	}
+            	});
+                $('#datetimepickerTo').datetimepicker({
+	              	locale: locDP,
+	              	stepping: 15,
+	                format: "DD.MM.YYYY HH:mm",
+	              	defaultDate: "2020-12-02 18:00",
+	                sideBySide: true,
+	                icons: {
+	                    time: "fa fa-fw fa-clock-o",
+	                    date: "fa fa-calendar",
+	                    up: "fa fa-arrow-up",
+	                    down: "fa fa-arrow-down",
+	                    next: "fa fa-arrow-right",
+	                    previous: "fa fa-arrow-left"
+	                }
+            	});
+                
+                $("#datetimepickerFrom").on("dp.change", function (e) {
+                    var tmpDateTimeFrom = e.date;
+                    if (!tmpDateTimeFrom) {
+                    	$('#datetimepickerFrom').data("DateTimePicker").date("2020-12-01 14:00");
+                    	$('#datefrom').val("01.12.2020 14:00");
+                    	$('#DatepickerFromData').val("2020-12-01");
+                    	$('#DatepickerFromTimeData').val("14:00");
+                    } else {
+                    	if ($('#datefrom').length > 0) {
+                    		var tmpDF = $('#datefrom').val().split(" ");
+                    		var tmpDFDate = tmpDF[0];
+                    		var tmpDFTime = tmpDF[1];
+                    		tmpDFDate = tmpDFDate.split(".");
+                    		tmpDFDate = tmpDFDate[2]+"-"+tmpDFDate[1]+"-"+tmpDFDate[0];
+                    		//console.log(tmpDFDate);
+                    		//console.log(tmpDFTime);
+                        	$('#DatepickerFromData').val(tmpDFDate);
+                        	$('#DatepickerFromTimeData').val(tmpDFTime);                    		
+                    	}
+                    }
+                    //console.log("tmpDateTimeFrom:" + tmpDateTimeFrom);
+                });
+                $("#datetimepickerTo").on("dp.change", function (e) {
+                    var tmpDateTimeTo = e.date;
+                    if (!tmpDateTimeTo) {
+                    	$('#datetimepickerTo').data("DateTimePicker").date("2020-12-02 18:00");
+                    	$('#dateto').val("02.12.2020 18:00");
+                    	$('#DatepickerToData').val("2020-12-02");
+                    	$('#DatepickerToTimeData').val("18:00");
+                    } else {
+                    	if ($('#dateto').length > 0) {
+                    		var tmpDF = $('#dateto').val().split(" ");
+                    		var tmpDFDate = tmpDF[0];
+                    		var tmpDFTime = tmpDF[1];
+                    		tmpDFDate = tmpDFDate.split(".");
+                    		tmpDFDate = tmpDFDate[2]+"-"+tmpDFDate[1]+"-"+tmpDFDate[0];
+                    		//console.log(tmpDFDate);
+                    		//console.log(tmpDFTime);
+                        	$('#DatepickerToData').val(tmpDFDate);
+                        	$('#DatepickerToTimeData').val(tmpDFTime);                    		
+                    	}                    	
+                    }
+                    //console.log("tmpDateTimeTo: " + tmpDateTimeTo);
+                });                
+			});
+
+            $(document).ready(function() {
+
+				if ((MOBILE == "phone" || MOBILE == "tablet") && ($("#dpFrameForm").length > 0)) {
+					$("#dpFrameForm").attr("action", "https://parking.koeln-bonn-airport.de/iPCP/reservation/create?skip=false&mobile=true");
+					$("#dpFrameForm").attr("target", "_blank");
+				}
+            });
+
+            
+        </script></form></div></div>
+
+</div><div class="footer-col-2 col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div id="c2" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class="">
+				Aktuelles
+			</h3></header></div>
+
+<div class="tx-cgn-modules">
+	
+	
+	
+	<ul>
+		
+			
+				<li><a href="/am-airport/aktuelles/default-f8a48ce3c6.html">Cluj-Napoca neu im Sommerflugplan 2021</a></li>
+			
+		
+			
+				<li><a href="/am-airport/aktuelles/default-eea7bb8f1e.html">Prozesse im Terminal werden angepasst</a></li>
+			
+		
+			
+				<li><a href="/am-airport/aktuelles/h2r-wasserstoff-rheinland-praesentiert-umfangreiche-plaene.html">&quot;H2R Wasserstoff Rheinland&quot; präsentiert umfangreiche Pläne</a></li>
+			
+		
+			
+				<li><a href="/am-airport/aktuelles/abschlussarbeiten-an-startbahnoberflaeche.html">Abschlussarbeiten an Startbahnoberfläche </a></li>
+			
+		
+
+	</ul>
+	<p>
+		<a href="/am-airport/aktuelles.html">Alle News</a>
+	</p>
+
+
+</div></div><div class="footer-col-3 col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div id="c3" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class="">
+				Anfahrt
+			</h3></header><p>Anreise mit dem Navigationsgerät:<br />Köln Bonn Airport, Kennedystraße,<br />51147 Köln</p><p><a href="/parken-anreise/anreise-mit-dem-pkw.html" class="internal-link">Ausführliche Beschreibung</a></p></div>
+
+</div><div class="footer-col-4 col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div id="c9" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class="">
+				Hilfreiche Links
+			</h3></header><ul><li><a href="/fluege/flug-buchen.html" class="internal-link">Flug buchen</a></li><li><a href="/serviceseiten/hilfe-faq.html" class="internal-link">Hilfe &amp; FAQ</a></li><li><a href="/serviceseiten/sitemap.html" class="internal-link">Sitemap</a></li><li><a href="/serviceseiten/impressum.html" class="internal-link">Impressum</a></li><li><a href="/serviceseiten/datenschutz.html" class="internal-link">Hinweise zum Datenschutz</a></li><li><a href="/serviceseiten/portal.html" class="internal-link">Portal</a></li><li><a href="/b2b/vertragsbedingungen-entgelte.html" class="internal-link">AGBs</a></li></ul></div>
+
+</div></div></div>
+		    </div>
+			
+			<div class="social">
+				<div class="container">
+					<div class="row ">
+						<div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+							<a class="sm-link" target="_blank" href="https://www.facebook.com/KoelnBonnAirport"><i class="fa fa-facebook"></i><span>Facebook</span></a> 
+							<a class="sm-link" target="_blank" href="https://www.instagram.com/airportcgn/"><i class="fa fa-instagram"></i><span>Instagram</span></a>
+							<a class="sm-link" target="_blank" href="https://twitter.com/AirportCGN"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+							<a class="sm-link" target="_blank" href="https://www.youtube.com/channel/UCfC3r29U6ueu-AfOE0fSEfg"><i class="fa fa-youtube"></i><span>Youtube</span></a>
+						</div>
+						<div class="col-lg-7 col-md-7 col-sm-7 col-xs-4"  style="padding:5px">
+							<div class="pull-right"><!--<a href="/fluege/flug-buchen.html"><img class="img-responsive" src="/fileadmin/cgn/theme/img/navigation/cgnhubbing.png"></a>--></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyright">
+				<div class="container">
+					<div class="row ">
+						<div class="col-lg-12 col-md-12 col-md-12 col-sm-12 ">
+							Copyright 2020 Köln Bonn Airport</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<!-- - - - - - - - customHiddenNav - - - - - - - - - -->
+	<div class="customHiddenNav">
+	    <p><a href="#navigation_local">Abschnittsende: Rücksprung zur seiteninternen Navigation</a></p>
+	    <hr /><hr />
+	</div>
+	<!-- - - - - - - - customHiddenNav - End - - - - - - - - - -->	
+</div>
+<script src="/typo3temp/assets/compressed/merged-63b5e55ffee7675722613246c4624e84.js?1583325621" type="text/javascript"></script>
+
+
+
+<div class="tx-cgn-modules">
+	
+	
+	
+
+</div>
+
+</body>
+</html>

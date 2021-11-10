@@ -1,0 +1,4 @@
+Regex:
+(\w\w\w?\s?\d+\w?\s)(?>Airline\W)?(\w\w\w?\s)([a-zA-ZöäüÖÄÜ]+\s)()(?>Abflug\W*)?(\d\d\:\d\d\s)(\d\d\:\d\d\s)?([a-zA-ZÖÄÜ]+\s)?(Terminal\W\d\s|BELUGA\WXL\s)(?>Terminal\W*X\s)?(?>Counter\W*)?(\d+\W\-\W\d+\s|\d\W\-\W\d)?(?>Gate\W*)?(\w\d\d)?
+
+Tabelle:

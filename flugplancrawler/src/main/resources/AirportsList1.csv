@@ -1,0 +1,26 @@
+Flughafen;IATA;ICAO;Webseite;istSkript;Fertig;hatFlüge;column8
+Berlin-Schönefeld;SXF;EDDB;https://www.berlin-airport.de/de/reisende-sxf/;ja;nein;ja;
+Bremen;BRE;EDDW;https://www.bremen-airport.com/;nein;ja;ja;
+Berlin-Tegel;TXL;EDDT;https://www.berlin-airport.de/de/reisende-txl/;ja;nein;ja;
+Dortmund;DTM;EDLW;https://www.dortmund-airport.de/;nein;ja;ja;
+Dresden;DRS;EDDC;https://www.mdf-ag.com/reisende-und-besucher/flughafen-dresden;ja;nein;ja;
+Düsseldorf;DUS;EDDL;https://www.dus.com/;ja;nein;ja;
+Erfurt-Weimar;ERF;EDDE;https://www.flughafen-erfurt-weimar.de/;nein;ja;ja;
+Frankfurt am Main;FRA;EDDF;https://www.frankfurt-airport.com/;ja;nein;ja;
+Frankfurt-Hahn;HHN;EDFH;https://www.hahn-airport.de/;;nein;ja;Hat kein SSL Zertifikat
+Friedrichshafen;FDH;EDNY;https://www.bodensee-airport.eu/;nein;nein;nein;
+Hamburg;HAM;EDDH;https://www.hamburg-airport.de/;ja;nein;ja;
+Hannover-Langenhagen;HAJ;EDDV;https://www.hannover-airport.de/;nein;ja;ja;
+Karlsruhe/Baden-Baden;FKB;EDSB;https://www.baden-airpark.de/;;nein;nein;
+Kassel-Calden;KSF;EDDVK;https://www.kassel-airport.de/;ja;nein;ja;
+Köln/Bonn;CGN;EDDK;https://www.koeln-bonn-airport.de/;nein;Abflug;ja;
+Leipzig/Halle;LEJ;EDDP;https://www.mdf-ag.com/reisende-und-besucher/flughafen-leipzig-halle;;nein;nein;
+München;MUC;EDDM;https://www.munich-airport.de/;ja;nein;ja;
+Münster/Osnabrück;FMO;EDDG;https://www.fmo.de/;;nein;nein;
+Niederrhein;NRN;EDLV;https://airport-weeze.com/;nein;abflug;ja;
+Nürnberg;NUE;EDDN;https://www.airport-nuernberg.de/;ja;nein;ja;
+Paderborn/Lippstadt;PAD;EDLP;https://www.airport-pad.com/;;nein;nein;
+Rostock-Laage;RLG;ETNL;https://www.rostock-airport.de/;nein;Abflug;ja;
+Saarbrücken;SCN;EDDR;https://www.flughafen-saarbruecken.de/;nein;Ankunft;ja;Blockiert, auf dauer.
+Stuttgart;STR;EDDS;https://www.flughafen-stuttgart.de/;ja;nein;ja;
+Sylt;GWT;EDXW;https://www.flughafen-sylt.de/;;nein;nein;
